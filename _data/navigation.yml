@@ -1,10 +1,8 @@
-- title: VecLab
+- title: Virus Epidemiology and Control Research Lab
   url: "/"
   side: left
 
-- title: Home
-  url: "/home/"
-  side: right
+
 
 - title: "Projects"
   url: "/projects/"
@@ -39,6 +37,10 @@
   #  url: "/changelog/"
   #- title: "Roadmap"
   #  url: "/roadmap/"
+
+- title: Team
+  url: "/team/"
+  side: right
 
 - title: Blog
   url: "/blog/"
