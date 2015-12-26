@@ -16,13 +16,13 @@ widget1:
 
 widget2:
   title: "Recent Papers"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'http://localhost:4000/design/'
   image: widget-1-302x182.jpg
   text: 'Follow our latest papers and publications ...'
 
 widget3:
   title: "On going projects"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'http://localhost:4000/documentation/'
   image: widget-github-303x182.jpg
   text: 'Current projects'
 #
