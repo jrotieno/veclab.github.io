@@ -3,24 +3,40 @@ layout: page-fullwidth
 subheadline: "The Team"
 permalink: "/team/"
 ---
+<h3></h3>
+<div class="row t30">
+<div class="large-4 columns">
+<img src="{{ site.url }}/images/James-Nokes.jpg" alt="">
+<div><strong>Prof James Nokes</strong> <div>(Group Leader)</div></div>
+</div>
+
+<div class="large-6 columns">
+<p>Prof James Nokes trained in Zoology (BSc) followed by a PhD in viral epidemiology (rubella)</p>
+
+<p>In 2001, James' interests shifted to the study of respiratory syncytial virus (RSV) accompanying a move of scientific base to the KEMRI-Wellcome Trust Research Programme (KWTRP) in Kilifi, Kenya</p>
+
+<p>This fascinating, antigenically diverse virus - a major cause of childhood pneumonia - remains a focus of his research up to today. Currently, he is Chairman of the Epidemiology and Demography Department within the KWTRP, with research support primarily
+from a Wellccome Trust Senior Investigator Award.</p>
+</div>
+</div>
 
 <h3>Current Members</h3>
-<div class="row">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Dr Patrick Munywoki</div>
-<div class="small-2 columns"><div style="background: #D7D7D7; height: 137px;"></div>Dr George Githinji</div>
-<div class="small-2 columns"><div style="background: #CBCBCB; height: 137px;"></div>Dr Charles Sande</div>
-<div class="small-2 columns"><div style="background: #BEBEBE; height: 137px;"></div>Dr Charles Agoti</div>
-<div class="small-2 columns"><div style="background: #A4A4A4; height: 137px;"></div>Moses Kiti (PhD student)</div>
-<div class="small-2 columns"><div style="background: #979797; height: 137px;"></div>James Otieno (PhD student)</div>
+<div class="row t30">
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></div><strong><a>Patrick Munywoki</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><strong><a>Charles Sande</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji2.jpg" alt=""></div><strong><a>George Githinji</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt=""></div><strong><a>Charles Agoti</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Moses Kiti<div>PhD Student</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>James Otieno<div>PhD Student</div></div>
 </div>
 
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #8B8B8B; height: 137px;"></div>Ivy Kombe (PhD Student)</div>
-<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div>Joyce Nyiro</div> 
-<div class="small-2 columns"><div style="background: #646464; height: 137px;"></div>Evelyn Kamau</div>
-<div class="small-2 columns"><div style="background: #575757; height: 137px;"></div>Ann Bett</div>
-<div class="small-2 columns"><div style="background: #4B4B4B; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #3E3E3E; height: 137px;"></div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Ivy Kombe</a></strong><div>PhD Student</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Joyce Nyiro</a></strong><div>Research officer</div></div> 
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Evelyn Kamau<div>Research officer</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Ann Bett<div>Senior Lab technologist</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Irene Adema<div>Assistant research officer</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Kanini Joseph<div>Research Intern</div></div>
 </div>
 
 <p>
@@ -28,10 +44,10 @@ permalink: "/team/"
 </p>
 
 <h3>Past Members</h3>
-<div class="row">
-<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div>Dr Imelda Okiro</div>
-<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div>Dr Tim Kinyanjui</div>
-<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div>Dr Betty Owour</div>
+<div class="row t30">
+<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt=""></div>Emelda Okiro</div>
+<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div>Tim Kinyanjui</div>
+<div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt=""></div>Betty Owor</div>
 <div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"></div>Caroline Gitahi</div>
 </div>
 
