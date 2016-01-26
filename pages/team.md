@@ -7,7 +7,7 @@ permalink: "/team/"
 <div class="row t30">
 <div class="large-4 columns">
 <img src="{{ site.url }}/images/James-Nokes.jpg" alt="">
-<div><strong>Prof James Nokes</strong> <div>(Group Leader)</div></div>
+<div><strong>Prof James Nokes</strong> - Group Leader</div>
 </div>
 
 <div class="large-6 columns">
