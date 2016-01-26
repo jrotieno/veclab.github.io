@@ -3,42 +3,16 @@
   side: left
 
 - title: About
-  url: "/info/"
+  url: "/about/"
   side: right
 
 - title: "Projects"
   url: "/projects/"
   side: right
-  #dropdown:
-  #- title: "Grid & Colors"
-  #  url: "/design/grid/"
-  #- title: "Typography"
-  #  url: "/design/typography/"
-  #- title: "Page/Post"
-  #  url: "/design/page/"
-  #- title: "Post-Left-Sidebar"
-  #  url: "/design/post-left-sidebar/"
-  #- title: "Post-Right-Sidebar"
-  #  url: "/design/post-right-sidebar/"
-  #- title: "Page Full-Width"
-  #  url: "/design/page-fullwidth/"
-  #- title: "Blog-Page"
-  #  url: "/blog/"
-  #- title: "Video"
-  #  url: "/design/video/"
-  #- title: "Gallery"
-  #  url: "/design/gallery/"
-  #- title: "Portfolio"
-  #  url: "/design/portfolio/"
 
 - title: Publications
   url: "/publications/"
   side: right
-  #dropdown:
-  #- title: "Changelog"
-  #  url: "/changelog/"
-  #- title: "Roadmap"
-  #  url: "/roadmap/"
 
 - title: Team
   url: "/team/"
