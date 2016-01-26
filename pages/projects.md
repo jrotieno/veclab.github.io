@@ -7,20 +7,21 @@ permalink: "/projects"
 
 <div class="row t30">
 <div class="medium-4 columns">
-<img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
+<img src="{{ site.url }}/images/webdesign_screenshot_stilwandel.jpg" alt="">
 <p>SPreD study</p>
-This project ....
+Brief description goes here
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-4 columns">
-<img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
-<p>Link: </p>
- This project .....
+<img src="{{ site.url }}/images/webdesign_screenshot_tarnkappe.jpg" alt="">
+<p>PCVIS </p>
+ Brief description goes here
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-4 columns">
-<img src="{{ site.urlimg }}webdesign_screenshot_schriefer.jpg" alt="">
-<p>Link: </p>
+<img src="{{ site.url }}/images/webdesign_screenshot_schriefer.jpg" alt="">
+<p>Another study </p>
+Brief description
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
