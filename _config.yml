@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: "VEC Lab"
+title: "VECLab"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -37,7 +37,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/KEMRI-WellcomeTrust/veclab.github.io/images/'
+urlimg: 'http://localhost:4000/images/'
 
 
 # Logo size is 600x80 pixels

@@ -1,8 +1,10 @@
-- title: Virus Epidemiology and Control Research Lab
+- title: Home
   url: "/"
   side: left
 
-
+- title: About
+  url: "/info/"
+  side: right
 
 - title: "Projects"
   url: "/projects/"
@@ -45,14 +47,6 @@
 - title: Blog
   url: "/blog/"
   side: right
-  #dropdown:
-  #- title: "Blog Archive"
-  #  url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"

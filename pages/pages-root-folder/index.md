@@ -6,26 +6,23 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplush_9.jpg 
 
 widget1:
-  title: "Recent blog articles"
+  title: "Recent Articles"
   url: 'http://localhost:4000/blog/'
-  image: widget-1-302x182.jpg
   text: 'Read our latest blog articles'
 
 widget2:
   title: "Recent Papers"
-  url: 'http://localhost:4000/design/'
-  image: widget-1-302x182.jpg
+  url: 'http://localhost:4000/publications/'
   text: 'Follow our latest papers and publications ...'
 
 widget3:
-  title: "On going projects"
-  url: 'http://localhost:4000/documentation/'
-  image: widget-github-303x182.jpg
+  title: "Current Projects"
+  url: 'http://localhost:4000/projects/'
   text: 'Current projects'
-#
+
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -46,10 +43,8 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
+<hr>
+<div>
+<h6>The VecLab at KEMRI-Wellcome Trust Research Programme applies computational and statistical methods to sequence data to understand viral transmission and spread </h6>
 </div>
+

@@ -1,21 +1,21 @@
-- menu_name: "Links"
+- menu_name: "Collaborating Institutes"
 
 - name: "University of Warwick"
-  url: "http://entypo.com/"
+  url: "http://www2.warwick.ac.uk/"
   class: "network-entypo"
   title: "University of Warwick"
 
 - name: "KEMRI-Wellcome Trust Research Programme"
-  url: "http://foundation.zurb.com/"
+  url: "http://www.kemri-wellcome.org/"
   class: "services-newsletter"
   title: "KEMRI-Wellcome Trust Research Programme"
 
 - name: "Oxford University"
-  url: "http://unsplash.com/"
+  url: "http://www.ox.ac.uk/"
   class: "rss-link"
   title: "University of Oxford"
 
 - name: "Wellcome-Trust Sanger Institute"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  url: "http://www.sanger.ac.uk"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Wellcome Trust Sanger Institute"
