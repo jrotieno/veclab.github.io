@@ -11,12 +11,7 @@ permalink: "/team/"
 </div>
 
 <div class="large-6 columns">
-<p>Prof James Nokes trained in Zoology (BSc) followed by a PhD in viral epidemiology (rubella)</p>
-
-<p>In 2001, James' interests shifted to the study of respiratory syncytial virus (RSV) accompanying a move of scientific base to the KEMRI-Wellcome Trust Research Programme (KWTRP) in Kilifi, Kenya</p>
-
-<p>This fascinating, antigenically diverse virus - a major cause of childhood pneumonia - remains a focus of his research up to today. Currently, he is Chairman of the Epidemiology and Demography Department within the KWTRP, with research support primarily
-from a Wellccome Trust Senior Investigator Award.</p>
+<p>James leads a dynamic team of scientists at the KEMRI-Wellcome Trust Research Programme.</p>
 </div>
 </div>
 
@@ -24,7 +19,7 @@ from a Wellccome Trust Senior Investigator Award.</p>
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></div><strong><a>Patrick Munywoki</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><strong><a>Charles Sande</a></strong><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji2.jpg" alt=""></div><strong><a>George Githinji</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div><strong><a>George Githinji</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt=""></div><strong><a>Charles Agoti</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Moses Kiti<div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>James Otieno<div>PhD Student</div></div>
@@ -32,11 +27,11 @@ from a Wellccome Trust Senior Investigator Award.</p>
 
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Ivy Kombe</a></strong><div>PhD Student</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Joyce Nyiro</a></strong><div>Research officer</div></div> 
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Evelyn Kamau<div>Research officer</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Ann Bett<div>Senior Lab technologist</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Irene Adema<div>Assistant research officer</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Kanini Joseph<div>Research Intern</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Irene Adema</a></strong><div>Assistant Research Officer</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Joyce Nyiro</a></strong><div>Research Officer</div></div> 
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Evelyn Kamau</a></strong><div>Research Officer</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Ann Bett</strong><div>Senior Lab Technician</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Regina Njeru</strong><div>Lab Technician</div></div>
 </div>
 
 <p>
