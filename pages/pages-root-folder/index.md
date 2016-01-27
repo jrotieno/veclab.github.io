@@ -6,22 +6,23 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplush_9.jpg 
+  image_fullwidth: kilifi-1.jpg
+  title: VecLab
 
 widget1:
-  title: "Recent Articles"
-  url: 'http://localhost:4000/blog/'
-  text: 'Read our latest blog articles'
+  title: "Recent Blog Articles"
+  url: '/blog/'
+  text: 'Keep updated with our news stories and activities from our blog'
 
 widget2:
-  title: "Recent Papers"
-  url: 'http://localhost:4000/publications/'
-  text: 'Follow our latest papers and publications ...'
+  title: "Papers"
+  url: '/publications/'
+  text: 'Follow our latest peer-reviewed journal publications'
 
 widget3:
-  title: "Current Projects"
-  url: 'http://localhost:4000/projects/'
-  text: 'Current projects'
+  title: "Projects"
+  url: '/projects/'
+  text: 'There are a number of projects going on in our research groups.'
 
 # Use the call for action to show a button on the frontpage
 #
