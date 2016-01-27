@@ -3,6 +3,7 @@ layout: page-fullwidth
 subheadline: "The Team"
 permalink: "/team/"
 ---
+
 <h3>Members</h3>
 
 <div class="row t30">
@@ -43,6 +44,6 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt=""></div>Betty Owor</div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Caroline Gitahi</div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Clayton Onyango</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Dorothy Koech</div>
 </div>
 
