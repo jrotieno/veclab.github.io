@@ -37,12 +37,12 @@ permalink: "/team/"
 
 </p>
 
-<h3>Past Members</h3>
+<h3>Previous Members</h3>
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt=""></div>Emelda Okiro</div>
 <div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt=""></div>Tim Kinyanjui</div>
 <div class="small-2 columns"><div style="background: #7E7E7E; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt=""></div>Betty Owor</div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Caroline Gitahi</div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Rachel Ochola</div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Clayton Onyango</div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div>Dorothy Koech</div>
 </div>
