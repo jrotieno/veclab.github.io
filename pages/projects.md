@@ -1,10 +1,9 @@
 ---
 layout: page-fullwidth
 #subheadline: "Projects and Studies"
-permalink: "/projects"
+permalink: "/projects/"
 header: no
 ---
-
 
 <div class="row">
   <div class="small-3 small-centered columns">Current Projects</div>
