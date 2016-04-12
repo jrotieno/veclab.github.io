@@ -1,0 +1,23 @@
+#- name: GitHub
+#  url: http://github.com/phlow
+#  class: icon-github
+#  title: Code und mehr...
+- name: GitHub
+  url: http://github.com/veclab
+  class: icon-github
+  title: Code
+
+- name: YouTube
+  url: http://www.youtube.com/veclab
+  class: icon-youtube
+  title: "Videos"
+
+- name: Twitter
+  url: http://twitter.com/veclab
+  class: icon-twitter
+  title: "Follow us on twitter"
+
+- name: Facebook
+  url: http://www.facebook.com/
+  class: icon-facebook
+  title: "Visit us on facebook"
