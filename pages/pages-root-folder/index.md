@@ -10,19 +10,19 @@ header:
   title: VECLab
 
 widget3:
-  title: "More about us"
+  title: "More About Us       "
   url: '/about/'
-  text: 'Who we are!'
+  text: ' '
 
 widget2:
-  title: "Peer reviewed papers"
+  title: "Journal Publications"
   url: '/publications/'
-  text: 'Read our recent articles'
+  text: ' '
 
 widget1:
   title: "Projects and Studies"
   url: '/projects/'
-  text: 'Our projects & studies'
+  text: ' '
 
 # Use the call for action to show a button on the frontpage
 #
@@ -48,9 +48,9 @@ homepage: true
 <div>
 
 {% include alert warning="This website is work in progress!" %}
-<h1>Virus Epidemiology and Control Research Group</h1>
+<h2>Virus Epidemiology and Control Research Group</h2>
 
 </div>
 
-We are based at the <strong>KEMRI-Wellcome Trust Research Programme</strong> in Kenya and we conduct intensive and long-term surveillance of viral pathogens. We apply a range of approaches that include; molecular, immunological, bioinformatics, social, electronic, and modelling tools.
+We are based at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a> in Kenya and we conduct intensive and long-term surveillance of viral pathogens. We apply a range of approaches that include; molecular, immunological, bioinformatics, social, electronic, and modelling tools.
 <hr>

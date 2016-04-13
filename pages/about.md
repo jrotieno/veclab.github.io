@@ -4,6 +4,7 @@ subheadline: "The Virus Epidemiology and Control Research Group"
 #teaser: "We are interested in virus epidemiology and more specifically on transmission pathways. How do infections spread within a household, at the community"
 permalink: "/about/"
 ---
+{% include alert warning="This website is work in progress!" %}
 
 <h4>The Virus Epidemiology and Control research group, based at the KEMRI-Wellcome Trust Research Programme in Kenya, 
 investigates the transmission dynamics of virus pathogens, particularly respiratory and enteric, to increase basic 

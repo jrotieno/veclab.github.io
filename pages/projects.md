@@ -4,6 +4,7 @@ layout: page-fullwidth
 permalink: "/projects/"
 header: no
 ---
+{% include alert warning="This website is work in progress!" %}
 
 <div class="row">
   <div class="small-3 small-centered columns">Current Projects</div>
@@ -25,7 +26,10 @@ header: no
 
         <p><b>Funding:</b> Wellcome Trust Senior Investigator Award</p>
         <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
-        <p><b>Links: </b> </p>
+        <p>This project has several nested studies that include:</p>
+        <div>
+        <a href="{{ site.url }}/spred-kenya">SPReD-Kenya</a>;  <a href="{{ site.url }}/rfid-contacts-study">RFID-contact Study</a>
+        </div>
     </div>
  </div><!-- /.row -->
 
