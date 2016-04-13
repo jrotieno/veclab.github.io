@@ -12,15 +12,12 @@ immunological, phylogenetic, social, electronic, and modelling tools
 </h4>
 
 <p></p>
+<hr>
 
 <div class="row">
-  <div class="small-2 large-4 columns">image1</div>
-  <div class="small-4 large-4 columns">image2</div>
-  <div class="small-6 large-4 columns">image3</div>
+  <div class="small-2 large-4 columns"><img src="{{ site.url }}/images/scale.png" alt=""></div>
+  <div class="small-4 large-4 columns"><img src="{{ site.url }}/images/veclab-studies.png" alt=""></div>
+  <div class="small-6 large-4 columns"><img src="{{ site.url }}/images/veclab-epidemics.png" alt=""></div>
 </div>
 
-<div class="row">
-  <div class="small-2 large-4 columns">image1</div>
-  <div class="small-4 large-4 columns">image2</div>
-  <div class="small-6 large-4 columns">image3</div>
-</div>
+<hr>
