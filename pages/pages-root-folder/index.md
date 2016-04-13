@@ -48,4 +48,3 @@ homepage: true
 <div>
 <h1>Virus Epidemiology and Control Research Group</h1>
 </div>
-
