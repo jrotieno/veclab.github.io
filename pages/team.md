@@ -4,7 +4,7 @@ header: no
 subheadline: "Scientific Team"
 permalink: "/team/"
 ---
-
+{% include alert warning="This website is work in progress!" %}
 <h3>Current members</h3>
 
 <div class="row t30">
