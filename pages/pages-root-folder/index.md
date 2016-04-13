@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: kilifi-1.jpg
-  title: VecLab
+  title: VECLab
 
 widget1:
   title: "Recent Blog Articles"
