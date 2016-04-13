@@ -46,7 +46,8 @@ homepage: true
 ---
 <hr>
 <div>
-<h3>This website is under development!</h3>
+<center><h3>(This website is under development!)</h3></center>
 
 <h1>Virus Epidemiology and Control Research Group</h1>
 </div>
+<hr>
