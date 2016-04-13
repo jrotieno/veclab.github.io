@@ -9,20 +9,20 @@ header:
   image_fullwidth: kilifi-1.jpg
   title: VECLab
 
-widget1:
+widget3:
   title: "Recent Blog Articles"
   url: '/blog/'
-  text: 'Keep updated with our news stories and activities from our blog'
+  text: 'News Stories'
 
 widget2:
   title: "Papers"
   url: '/publications/'
-  text: 'Follow our latest peer-reviewed journal publications'
+  text: 'Latest Peer-Reviewed Publications'
 
-widget3:
+widget1:
   title: "Projects"
   url: '/projects/'
-  text: 'There are a number of projects going on in our research groups.'
+  text: 'Current Research Projects and Studies'
 
 # Use the call for action to show a button on the frontpage
 #
@@ -46,6 +46,6 @@ homepage: true
 ---
 <hr>
 <div>
-<h6>The VecLab at KEMRI-Wellcome Trust Research Programme applies computational and statistical methods to sequence data to understand viral transmission and spread </h6>
+<h1>Virus Epidemiology and Control Research Group</h1>
 </div>
 
