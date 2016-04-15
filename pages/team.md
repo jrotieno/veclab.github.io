@@ -21,9 +21,9 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Moses-Kiti.jpg" alt="" height="87" width="100"></div><a><strong>Moses Kiti</strong></a><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/James-Otieno.jpg" alt="" height="100" width="115"></div><strong><a>James Otieno</a></strong><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Ivy-Kombe.jpg" alt="" height="100" width="100"></div><strong><a>Ivy Kombe</a></strong><div>PhD Student</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Irene-Adema.jpg" alt="" height="90" width="100"></div><strong><a>Irene Adema</a></strong><div>Assist. Research Officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Irene-Adema.jpg" alt="" height="90" width="100"></div><strong><a>Irene Adema</a></strong><div>Research assistant</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Joyce Nyiro</a></strong><div>Research Officer</div></div> 
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></div><strong><a>Evelyn Kamau</a></strong><div>Assist. Research Officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></div><strong><a>Evelyn Kamau</a></strong><div>Research assistant</div></div>
 </div>
 
 <div class="row">
