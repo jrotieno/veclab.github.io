@@ -26,10 +26,10 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></div><strong><a>Evelyn Kamau</a></strong><div>Research assistant</div></div>
 </div>
 
-<div class="row">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Ann Bett</strong><div>Lab Manager</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project Manager</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
+<div class="row t30">
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Grieven Otieno</strong><div>Data manager</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
