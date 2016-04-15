@@ -13,7 +13,7 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><strong><a>Charles Sande</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></div><strong><a>George Githinji</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></div><strong><a>Charles Agoti</a></strong><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></div><strong><a>Nelson Kibinge</a></strong><div>Postdoctoral fellow</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></div><strong><a>Nelson Kibinge</a></strong><div>Postdoc</div></div>
 
 </div>
 
