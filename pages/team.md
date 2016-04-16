@@ -8,9 +8,9 @@ permalink: "/team/"
 <h3></h3>
 
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></div><strong><a>Prof James Nokes</a></strong><div>Group Leader</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></div><strong><a>Dr Patrick Munywoki</a></strong><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><strong><a>Dr Charles Sande</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></div><a>Prof James Nokes</a><div>Group Leader</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></div><a>Dr Patrick Munywoki</a><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><a>Dr Charles Sande</a><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></div><strong><a>Dr George Githinji</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></div><strong><a>Dr Charles Agoti</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></div><strong><a>Dr Nelson Kibinge</a></strong><div>Postdoc</div></div>
@@ -43,10 +43,12 @@ permalink: "/team/"
 <div class="small-4 columns">
 <h6>Laboratory Team</h6>
 <div class="panel callout radius">
-<p>Regina Njeru</p>
-<p>Martin Mutunga</p>
-<p>Alex Gichuki</p>
-<p>Clement Lewa</p>
+<ul class="square">
+    <li>Regina Njeru</li>
+    <li>Martin Mutunga</li>
+    <li>Alex Gichuki</li>
+    <li>Clement Lewa</li>
+</ul>
 </div>
 </div>
 
@@ -54,6 +56,10 @@ permalink: "/team/"
 <div class="small-4 columns">
 <h6>Clinical Team</h6>
 <div class="panel callout radius">
+<ul class="square">
+    <li>Mwanajuma Ngama</li>
+</ul>
+
 </div>
 </div>
 
@@ -73,10 +79,10 @@ permalink: "/team/"
 
 <h4>Alumni</h4>
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt=""></div>Dr Emelda Okiro</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt=""></div>Dr Tim Kinyanjui</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt=""></div>Dr Betty Owor</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Rachel-Ochola-2.jpg" alt=""></div>Dr Rachel Ochola</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt="" height="100" width="110"></div>Dr Emelda Okiro</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt="" height="100" width="110"></div>Dr Tim Kinyanjui</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt="" height="100" width="110"></div>Dr Betty Owor</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Rachel-Ochola-2.jpg" alt="" height="100" width="110"></div>Dr Rachel Ochola</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Dr Clayton Onyango</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
 </div>
