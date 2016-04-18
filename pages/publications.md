@@ -12,13 +12,11 @@ permalink: "/publications/"
 <p>
 Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya
 </p>
-<small>
 <p> <a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="blank">Otieno et al. Journal of Virology</a></p>
-</small>
 
 </div>
 <div class="small-3 columns">
-<img class="th" src="{{ site.url }}/images/article_img/Agoti-et-al-2015.jpg" alt="" height="100" width="115">
+<img class="th" src="{{ site.url }}/images/article_img/Otieno-et-al-2015-jvi.png" alt="" height="100" width="115">
 </div>
 
 <div class="small-3 columns">
@@ -50,8 +48,7 @@ Successive Respiratory Syncytial Virus Epidemics in Local Populations Arise from
 <p class="text-justify"><a href="">Munywoki et al. 2015. The Journal of Infectious Diseases</a></p>
 </div>
 <div class="small-3 columns">
-<img class="th" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015.jpg" alt="" height="100" width="150">
-
+<img class="th" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015.jpg" alt="" height="100" width="150">    
 </div>
 
 
@@ -77,16 +74,37 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 <div class="small-3 columns">
 <p> Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding </p>
 <p><a href="">Munywoki et al. 2015. Epidemiology and infection.</a></p>
-
 </div>
 <div class="small-3 columns">
 <img class="th" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="" height="100" width="150">
 
 </div>
+</div>
 
+<div class="row" >
 
-<div class="small-3 columns"></div>
+<div class="small-3 columns">
+    <p>Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting</p>
+    <p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138018" target="blank">Kinyanjui et al. 2015. PloS one.</a></p>
+</div>
 
-<div class="small-3 columns"></div>
+<div class="small-3 columns">
+ <img class="th" src="{{ site.url }}/images/article_img/Kinyanjui-et-al-2015-plos-one.png" alt="" height="100" width="150">
+</div>
+
+<div class="small-3 columns">
+<p>Quantifying maternally derived respiratory syncytial virus specific neutralising antibodies in a birth cohort from coastal Kenya </p>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0264410X15002285" target="blank"> Nyiro-et-al-2015. Vaccine.</a></p>
+</div>
+
+<div class="small-3 columns">
+
+ <img class="th" src="{{ site.url }}/images/article_img/Nyiro-et-al-2015-vaccine.jpg" alt="" height="100" width="150">
+</div>
+
+<div class="small-3 columns">
 
 </div>
+
+</div>
+
