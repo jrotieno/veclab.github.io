@@ -9,11 +9,12 @@ permalink: "/publications/"
 <p><strong>2016</strong></p>
 <div class="row t60">
 <div class="small-3 columns">
-<small><p>
+<p>
 Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya
-</p></small>
-
+</p>
+<small>
 <p> <a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="blank">Otieno et al. Journal of Virology</a></p>
+</small>
 
 </div>
 <div class="small-3 columns">
