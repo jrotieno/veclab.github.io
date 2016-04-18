@@ -38,7 +38,7 @@ permalink: "/team/"
 
 <div class="row t30">
 
-<div class="small-4 columns">
+<div class="small-3 columns">
 <h6>Laboratory staff</h6>
 <div class="panel callout radius">
 <ul class="square">
@@ -51,7 +51,7 @@ permalink: "/team/"
 </div>
 
 
-<div class="small-4 columns">
+<div class="small-3 columns">
 <h6>Clinical staff</h6>
 <div class="panel callout radius">
 <ul class="square">
