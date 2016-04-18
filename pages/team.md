@@ -7,10 +7,10 @@ permalink: "/team/"
 {% include alert warning="This website is work in progress!" %}
 <h6>Research staff</h6>
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></div><a>Prof James Nokes</a><div>Group Leader(PI)</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></div><a href="{{ site.url }}/james-nokes">Prof James Nokes</a><div>Group Leader(PI)</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></div><a>Dr Patrick Munywoki</a><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><a>Dr Charles Sande</a><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></div><strong><a>Dr George Githinji</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></div><strong><a href="{{ site.url }}/george-githinji">Dr George Githinji</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></div><strong><a>Dr Charles Agoti</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></div><strong><a>Dr Nelson Kibinge</a></strong><div>Postdoc</div></div>
 
