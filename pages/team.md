@@ -1,14 +1,13 @@
 ---
 layout: page-fullwidth
 header: no
-subheadline: "Scientific Team"
+subheadline: "VEC Staff"
 permalink: "/team/"
 ---
 {% include alert warning="This website is work in progress!" %}
-<h3></h3>
-
+<h6>Research staff</h6>
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></div><a>Prof James Nokes</a><div>Group Leader</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></div><a>Prof James Nokes</a><div>Group Leader(PI)</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></div><a>Dr Patrick Munywoki</a><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></div><a>Dr Charles Sande</a><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></div><strong><a>Dr George Githinji</a></strong><div>Postdoc</div></div>
@@ -27,9 +26,9 @@ permalink: "/team/"
 </div>
 
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong>Grieven Otieno</strong><div>Data manager</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="90" width="100"></div><strong>Grieven Otieno</strong><div>Data manager</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
@@ -37,11 +36,10 @@ permalink: "/team/"
 
 <hr>
 
-<h4>Support Teams</h4>
 <div class="row t30">
 
 <div class="small-4 columns">
-<h6>Laboratory Team</h6>
+<h6>Laboratory staff</h6>
 <div class="panel callout radius">
 <ul class="square">
     <li>Regina Njeru</li>
@@ -54,7 +52,7 @@ permalink: "/team/"
 
 
 <div class="small-4 columns">
-<h6>Clinical Team</h6>
+<h6>Clinical staff</h6>
 <div class="panel callout radius">
 <ul class="square">
     <li>Mwanajuma Ngama</li>
@@ -65,7 +63,7 @@ permalink: "/team/"
 
 
 <div class="small-4 columns">
-<h6>Field Team</h6>
+<h6>Field staff</h6>
 <div class="panel callout radius">
 
 </div>
@@ -77,7 +75,7 @@ permalink: "/team/"
 
 <hr>
 
-<h4>Alumni</h4>
+<h6>Alumni</h6>
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt="" height="100" width="110"></div>Dr Emelda Okiro</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt="" height="100" width="110"></div>Dr Tim Kinyanjui</div>
