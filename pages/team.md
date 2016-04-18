@@ -62,15 +62,6 @@ permalink: "/team/"
 </div>
 
 
-<div class="small-4 columns">
-<h6>Field staff</h6>
-<div class="panel callout radius">
-
-</div>
-
-</div>
-
-
 </div>
 
 <hr>
