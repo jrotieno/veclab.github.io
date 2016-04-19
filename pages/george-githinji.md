@@ -13,8 +13,8 @@ header: no
 <div>
 <ul class="vcard">
   <li class="fn">Dr George Githinji</li>
-  <li class="street-address">Software projects: <a href="https://github.com/biorelated" target="blank">@biorelated</a></li>
-  <li class="street-address">Twitter: <a href="https://twitter.com/biorelated" target="blank">@biorelated</a></li>
+  <li class="street-address"><a href="https://github.com/biorelated" target="blank">Software projects </a></li>
+  <li class="street-address"><a href="https://twitter.com/biorelated" target="blank">Twitter</a></li>
   <li class="street-address"><a href="https://biorelated.com" target="blank">Read my blog</a></li>
 </ul>
 </div>
