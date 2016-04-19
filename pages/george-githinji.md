@@ -13,9 +13,9 @@ header: no
 <div>
 <ul class="vcard">
   <li class="fn">Dr George Githinji</li>
-  <li class="street-address">Github: <a href="https://github.com/biorelated" target="blank">@biorelated</a></li>
+  <li class="street-address">Software projects: <a href="https://github.com/biorelated" target="blank">@biorelated</a></li>
   <li class="street-address">Twitter: <a href="https://twitter.com/biorelated" target="blank">@biorelated</a></li>
-  <li class="street-address"><a href="https://biorelated.com" target="blank">I blog here</a></li>
+  <li class="street-address"><a href="https://biorelated.com" target="blank">Read my blog</a></li>
 </ul>
 </div>
 </div>
@@ -26,7 +26,7 @@ header: no
 <p class="text-justify">
 I am an IDeAL early career postdoctoral fellow at the <a href="http://www.kemri-wellcome.org/" target="blank">KEMRI-Wellcome Trust Research Programme</a>. 
 I utilise bioinformatics approaches to study viral evolution and transmission patterns during RSV outbreaks. 
-My current project investigates the <a href="" target="blank">role of minority variants</a> during viral evolution and transmission.  
+My current project investigates the <a href="" target="blank">role of minority variants</a> in virus evolution and in reconstructing virus transmission chains.  
 </p>
 
 <p class="text-justify">
