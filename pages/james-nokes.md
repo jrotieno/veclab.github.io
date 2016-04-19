@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-#subheadline: "Prof James Nokes"
+subheadline: "Prof James Nokes"
 permalink: "/james-nokes/"
 header: no
 ---
@@ -12,15 +12,14 @@ header: no
 
 <div>
 <ul class="vcard">
-  <li class="fn">Prof James Nokes</li>
   <li class="locality">Group Leader and PI</li>
 </ul>
 </div>
 </div>
 
-<h6>Biography</h6>
 
 <div class = "small-8 columns" >
+<h6>Biography</h6>
 <p class="text-justify">
 James Nokes trained in Zoology (BSc) followed by a PhD in viral epidemiology (rubella), out of which developed an enduring interest in the transmission dynamics and control of human viral pathogens. A post-doc period at Imperial College was followed by two years at Oxford and then Warwick from 1995, which remains his home institution where he is a Professor of Infectious Disease Epidemiology. 
 </p>
@@ -35,7 +34,6 @@ This fascinating, antigenically diverse virus - a major cause of childhood pneum
 primarily from a Wellcome Trust Senior Investigator Award.
 </p>
 
-<h6>Publications</h6>
 <ul class="square">
 
 </ul>
