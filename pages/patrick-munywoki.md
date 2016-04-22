@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Patrick Munywoki"
+subheadline: "Biography"
 permalink: "/patrick-munywoki/"
 header: no
 ---
@@ -14,7 +14,7 @@ header: no
 </div>
 </div>
 <div class = "small-8 columns" >
-<h6>Biography</h6>
+<h6>Patrick Munywoki (BSc,MSc,PhD)</h6>
 <p class="text-justify">
 I am a post-doctoral research scientist at <a href="http://www.kemri-wellcome.org" target="blank">KEMRI-Wellcome Trust Research Programme (KWTRP)</a>, in Kilifi, Kenya. I joined the programme as a project assistant in November 2005 after completion of a BSc (Nursing Sciences) Degree in Moi University. My main roles were to support inpatient surveillance of respiratory syncytial virus (RSV). Since then I has been involved in a broad range of research activities, including the development of new research protocols and expansion of the inpatient surveillance to include other respiratory pathogens. 
 </p>

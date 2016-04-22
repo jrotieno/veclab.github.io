@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Prof James Nokes"
+subheadline: "Biography"
 permalink: "/james-nokes/"
 header: no
 ---
@@ -19,7 +19,7 @@ header: no
 
 
 <div class = "small-8 columns" >
-<h6>Biography</h6>
+<h6>Prof James Nokes</h6>
 <p class="text-justify">
 James Nokes trained in Zoology (BSc) followed by a PhD in viral epidemiology (rubella), out of which developed an enduring interest in the transmission dynamics and control of human viral pathogens. A post-doc period at Imperial College was followed by two years at Oxford and then Warwick from 1995, which remains his home institution where he is a Professor of Infectious Disease Epidemiology. 
 </p>

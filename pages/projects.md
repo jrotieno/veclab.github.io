@@ -1,14 +1,10 @@
 ---
 layout: page-fullwidth
-#subheadline: "Projects and Studies"
+subheadline: "Projects"
 permalink: "/projects/"
 header: no
 ---
 {% include alert warning="This website is work in progress!" %}
-
-<div class="row">
-  <div class="small-3 small-centered columns">Current Projects</div>
-</div>
 
 <div class="row">
     <div class="large-4 columns">
@@ -27,9 +23,17 @@ header: no
 
         <p><b>Funding:</b> Wellcome Trust Senior Investigator Award</p>
         <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
-        <p>This project has several nested studies that include:</p>
+        <p>This project comprises of several nested studies that are spearheaded by different members of the group.</p>
         <div>
-        <a href="{{ site.url }}/spred-kenya">SPReD-Kenya</a>;  <a href="{{ site.url }}/rfid-contacts-study">RFID-contact Study</a>
+        <ol>
+        <li><a href="{{ site.url }}/spred-kenya">SPReD-Kenya</a></li>
+        <li><a href="{{ site.url }}/whole-genome-households-study">Whole genome households study</a></li>
+        <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants in virus transmission and evolution</a></li>
+
+        <li><a href="{{ site.url }}/spred-kilifi">SPReD-Kilifi</a></li>
+        <li><a href="{{ site.url }}/who-acquires-infection-from-whom">Epidemilogical and genetic sequence modelling</a></li>
+        <li><a href="{{ site.url }}/phylogeography">Phylogeography</a></li>
+        </ol>
         </div>
     </div>
  </div><!-- /.row -->
