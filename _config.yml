@@ -37,7 +37,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: "http://localhost:4000/images/"
+urlimg: "{{ site.url }}/images/"
 
 
 # Logo size is 600x80 pixels
@@ -107,7 +107,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: VecLab     # Default author for pages
+      author: VEClab     # Default author for pages
   -
     scope:
       path: ""
@@ -224,7 +224,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-#google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-76847952-1
 
 
 
