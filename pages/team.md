@@ -62,11 +62,11 @@ permalink: "/team/"
 
 <h6>Alumni</h6>
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt="" height="120" width="110"></div>Dr Emelda Okiro</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt="" height="120" width="110"></div>Dr Tim Kinyanjui</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt="" height="120" width="110"></div>Dr Betty Owor</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Rachel-Ochola-2.jpg" alt="" height="120" width="110"></div>Dr Rachel Ochola</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Dr Clayton Onyango</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt="" height="120" width="110"></div>Emelda Okiro</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt="" height="120" width="110"></div>Tim Kinyanjui</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt="" height="120" width="110"></div>Betty Owor</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Rachel-Ochola-2.jpg" alt="" height="120" width="110"></div>Rachel Ochola</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Clayton Onyango</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
 </div>
 <hr>
