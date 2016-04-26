@@ -7,11 +7,11 @@ permalink: "/team/"
 <h6>Research staff</h6>
 <div class="row t30">
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/james-nokes"><img src="{{ site.url }}/images/James-Nokes.jpg" alt=""></a></div><a href="{{ site.url }}/james-nokes">Prof James Nokes</a><div>Group Leader(PI)</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/patrick-munywoki"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></a></div><a href="{{ site.url }}/patrick-munywoki">Dr Patrick Munywoki</a><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/charles-sande"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></a></div><a>Dr Charles Sande</a><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/george-githinji"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/george-githinji">Dr George Githinji</a></strong><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/charles-agoti"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></a></div><strong><a>Dr Charles Agoti</a></strong><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/nelson-kibinge"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></a></div><strong><a>Dr Nelson Kibinge</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/patrick-munywoki"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></a></div><a href="{{ site.url }}/patrick-munywoki">Patrick Munywoki</a><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/charles-sande"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></a></div><a>Charles Sande</a><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/george-githinji"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/george-githinji">George Githinji</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/charles-agoti"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></a></div><strong><a>Charles Agoti</a></strong><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/nelson-kibinge"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></a></div><strong><a>Nelson Kibinge</a></strong><div>Postdoc</div></div>
 </div>
 
 <div class="row t30">
@@ -24,6 +24,7 @@ permalink: "/team/"
 </div>
 
 <div class="row t30">
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Tom-Yates" alt="" height="90" width="95"></div><strong>Thomas Yates</strong><div>Visiting scientist</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="90" width="100"></div><strong>Grieven Otieno</strong><div>Data manager</div>
