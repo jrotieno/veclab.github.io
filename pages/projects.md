@@ -27,11 +27,11 @@ header: no
         <div>
         <ol>
         <li><a href="{{ site.url }}/spred-kenya">SPReD-Kenya</a></li>
-        <li><a href="{{ site.url }}/whole-genome-households-study">Whole genome households study</a></li>
+        <li><a href="{{ site.url }}/whole-genome-household-study">Whole genome households study</a></li>
         <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants in virus transmission and evolution</a></li>
 
         <li><a href="{{ site.url }}/spred-kilifi">SPReD-Kilifi</a></li>
-        <li><a href="{{ site.url }}/who-acquires-infection-from-whom">Epidemilogical and genetic sequence modelling</a></li>
+        <li><a href="{{ site.url }}/WAIFW">Epidemilogical and genetic sequence modelling</a></li>
         <li><a href="{{ site.url }}/phylogeography">Phylogeography</a></li>
         </ol>
         </div>
