@@ -5,7 +5,6 @@ layout: page-fullwidth
 header: no
 permalink: "/publications/"
 ---
-{% include alert warning="This website is work in progress!" %}
 <p><strong>2016</strong></p>
 <div class="row t60">
 <div class="small-3 columns">

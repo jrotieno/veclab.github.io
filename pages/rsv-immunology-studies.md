@@ -13,7 +13,9 @@ header: no
 <div class="large-8 columns">
 <p><strong>RSV Immunology Study</strong>
 <p><strong>Study Lead:</strong> Dr Charles Sande</p>
-<p> 
+
+<p class="test-justify"> 
+In this study we use systems immunology approaches to identify biomarkers of severe Respiratory Syncytial Virus infection in infancy. We use a wide range of systems tools ranging from transcriptomics, mass cytometry, metabolomics and studies of the respiratory microbiome to identify host factors that are uniquely expressed in severe disease.
 
 </p>
 

@@ -11,12 +11,22 @@ header: no
 </div>
 
 <div class="large-8 columns">
-<p><strong>Minority variant analysis</strong>
-<p><strong>Study Lead:</strong>George Githinji</p>
-<p> 
+<p><strong>Exploring the role of minority variants in elucidating virus transmission and evolution</strong>
+<p><strong> Study PI: </strong>Dr George Githinji</p>
+<p class="text-justify">
+Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.
 </p>
 
-<p><strong>External Collaborators:</strong>Matt Cotten</p>
+<p class="text-justify">
+This project aims to explore whether changes in the composition of minor variants between hosts and the pattern of minor variants fixation during outbreaks, could provide additional data to resolve transmission patterns. 
+</p>
+
+<p><strong>External collaborators:</strong>
+</p>
+<ul>
+ <li>Dr Matt Cotten (Wellcome Trust Sanger Institute) </li>
+ <li>Prof Paul Kellam (Wellcome Trust Sanger Institute) </li>
+<ul/>
 
 </div>
 </div><!-- /.row -->

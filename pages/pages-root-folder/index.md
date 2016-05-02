@@ -10,18 +10,18 @@ header:
   title: VECLab
 
 widget3:
-  title: "More About Us       "
+  title: "About Us       "
   url: '/about/'
   text: ' '
 
 widget2:
-  title: "Journal Publications"
+  title: "Publications"
   url: '/publications/'
   text: ' '
 
 widget1:
-  title: "Projects and Studies"
-  url: '/projects/'
+  title: "Research"
+  url: '/research/'
   text: ' '
 
 # Use the call for action to show a button on the frontpage

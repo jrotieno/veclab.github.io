@@ -1,14 +1,14 @@
 ---
 layout: page-fullwidth
-subheadline: "Projects"
-permalink: "/projects/"
+subheadline: "Research"
+permalink: "/research/"
 header: no
 ---
 {% include alert warning="This website is work in progress!" %}
 
 <div class="row">
     <div class="large-4 columns">
-        <img src="{{ site.url }}/images/Agoti-2015.png" alt="" height="200" width="225">
+        <img src="{{ site.url }}/images/scale.png" alt="">
     </div>
     
     <div class="large-8 columns">
@@ -26,13 +26,13 @@ header: no
         <p>This project comprises of several nested studies that are spearheaded by different members of the group.</p>
         <div>
         <ol>
-        <li><a href="{{ site.url }}/spred-kenya">SPReD-Kenya</a></li>
+        <li><a href="{{ site.url }}/spred-kenya">Country-SPReD (Kenya)</a></li>
         <li><a href="{{ site.url }}/whole-genome-household-study">Whole genome households study</a></li>
         <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants in virus transmission and evolution</a></li>
 
-        <li><a href="{{ site.url }}/spred-kilifi">SPReD-Kilifi</a></li>
-        <li><a href="{{ site.url }}/WAIFW">Epidemilogical and genetic sequence modelling</a></li>
-        <li><a href="{{ site.url }}/phylogeography">Phylogeography</a></li>
+        <li><a href="{{ site.url }}/local-spred">Local-SPReD (Kilifi)</a></li>
+        <li><a href="{{ site.url }}/WAIFW">Epidemiological and genetic sequence modelling</a></li>
+        <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1 in Kenya</a></li>
         </ol>
         </div>
     </div>
@@ -42,7 +42,7 @@ header: no
 
  <div class="row">
   <div class="large-4 columns">
-  
+  <img src="{{ site.url }}/images/rotavirus.png" alt="">
   </div>
 
   <div class="large-8 columns">
@@ -62,7 +62,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  
+  <img src="{{ site.url }}/images/veclab-epidemics.png" alt="">
   </div>
 
   <div class="large-8 columns">

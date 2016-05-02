@@ -5,7 +5,6 @@ subheadline: "The Virus Epidemiology and Control Research Group"
 permalink: "/about/"
 header: no
 ---
-{% include alert warning="This website is work in progress!" %}
 
 <p class="text-justify">
 The Virus Epidemiology and Control research group, based at the KEMRI-Wellcome Trust Research Programme in Kenya, 
