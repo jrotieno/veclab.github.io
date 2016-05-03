@@ -12,8 +12,8 @@ header: no
 
 <div>
 <ul class="vcard">
-  <li class="street-address"><a href="https://github.com/biorelated" target="blank">Software projects </a></li>
-  <li class="street-address"><a href="https://twitter.com/biorelated" target="blank">Twitter</a></li>
+  <li class="street-address"><a href="https://github.com/biorelated" target="blank">Software</a></li>
+  <li class="street-address"><a href="https://twitter.com/biorelated" target="blank">Follow me on twitter</a></li>
   <li class="street-address"><a href="https://biorelated.com" target="blank">Read my blog</a></li>
 </ul>
 </div>

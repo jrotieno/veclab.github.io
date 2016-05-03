@@ -7,14 +7,6 @@ header: no
 <div class = "row">
 <div class = "small-4 columns">
 <img src="{{ site.url }}/images/Ivy-Kombe.jpg" alt="" height="200" width="225">
-
-<p></p>
-
-<div>
-<ul class="vcard">
-  <li class="locality">PhD student</li>
-</ul>
-</div>
 </div>
 
 
@@ -32,8 +24,8 @@ contribute or converge to singular outcomes.
 </p>
 
 <p class="text-justify">
-My PhD project provides an opportunity to study such processes and how they can be altered to
-interrupt disease transmission.
+My PhD project provides an opportunity to study such processes and how they can be applied in
+interupting disease transmission.
 </p>
 </div>
 
