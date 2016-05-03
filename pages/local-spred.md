@@ -17,6 +17,7 @@ header: no
 Characterization of transmission pathways of viral respiratory infections in Kilifi county
 </strong>
 </p>
+<p><strong> Study PI: </strong><a href="{{ site.url }}/joyce-nyiro"> Joyce Nyiro (BSc, MSc)</a></p>
 
 <p><strong>Study PI:</strong> Joyce Nyiro</p>
 

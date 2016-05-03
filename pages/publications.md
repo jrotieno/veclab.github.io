@@ -8,7 +8,7 @@ permalink: "/publications/"
 <p><strong>2016</strong></p>
 <div class="row t60">
 <div class="small-3 columns">
-<p>
+<p class="lead" >
 Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya
 </p>
 <p> <a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="blank">Otieno et al. Journal of Virology</a></p>
@@ -30,7 +30,7 @@ Molecular evolutionary dynamics of respiratory syncytial virus group A in recurr
 
 <div class="row t30">
   <div class="small-3 columns">
- <p class="">
+ <p class="lead">
 Successive Respiratory Syncytial Virus Epidemics in Local Populations Arise from Multiple Variant Introductions, Providing Insights into Virus Persistence.
 </p>
 <p><a href="http://jvi.asm.org/content/89/22/11630.long" target="blank" >Agoti et al. 2015. Journal of Virology</a></p>
@@ -41,7 +41,7 @@ Successive Respiratory Syncytial Virus Epidemics in Local Populations Arise from
 
 
 <div class="small-3 columns">
-<p class="">
+<p class="lead">
     Frequent Asymptomatic Respiratory Syncytial Virus Infections During an Epidemic in a Rural Kenyan Household Cohort.
 </p>
 <p class="text-justify"><a href="">Munywoki et al. 2015. The Journal of Infectious Diseases</a></p>
@@ -59,7 +59,7 @@ Successive Respiratory Syncytial Virus Epidemics in Local Populations Arise from
 <div class="row">
 
 <div class="small-3 columns">
-<p class="text-justify">
+<p class="lead">
 Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Whole-Genome Sequencing.
 </p>
 <p class="text-justify"><a href="">Agoti et al. 2015. Journal of Virology</a></p>
@@ -71,7 +71,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 </div>
 
 <div class="small-3 columns">
-<p> Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding </p>
+<p class="lead"> Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding </p>
 <p><a href="">Munywoki et al. 2015. Epidemiology and infection.</a></p>
 </div>
 <div class="small-3 columns">
@@ -83,7 +83,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 <div class="row" >
 
 <div class="small-3 columns">
-    <p>Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting</p>
+    <p class="lead">Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting</p>
     <p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138018" target="blank">Kinyanjui et al. 2015. PloS one.</a></p>
 </div>
 
@@ -92,7 +92,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 </div>
 
 <div class="small-3 columns">
-<p>Quantifying maternally derived respiratory syncytial virus specific neutralising antibodies in a birth cohort from coastal Kenya </p>
+<p class="lead">Quantifying maternally derived respiratory syncytial virus specific neutralising antibodies in a birth cohort from coastal Kenya </p>
 <p><a href="http://www.sciencedirect.com/science/article/pii/S0264410X15002285" target="blank"> Nyiro-et-al-2015. Vaccine.</a></p>
 </div>
 

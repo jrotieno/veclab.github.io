@@ -12,7 +12,7 @@ header: no
 
 <div class="large-8 columns">
 <p><strong>Mapping transmission pathways of respiratory viruses in Kenya</strong>
-<p><strong>Study PI:</strong> Dr Patrick Munywoki</p>
+<p><strong> Study PI: </strong><a href="{{ site.url }}/patrick-munywoki"> Patrick Munywoki (BSc, MSc,PhD)</a></p>
 <p class="text-justify"> 
 This is a collaborative project utilizing respiratory specimens and associated de-identified clinical data collected over a three-year period (2014-2016) from an existing influenza surveillance platform set up by KEMRI/CDC-Kenya. The aim is to define pathways of respiratory virus transmission, i.e. characteristic routes of virus introduction, spread, persistence and fade-out at different spatial and temporal scales (Figure 1), and to quantify transmission success (i.e. numbers of cases, extent
 of geographic spread, duration of persistence) and identify the factors that determine transmission potential. Approximately 7000 nasal specimens collected each year from ten influenza sentinel surveillance sites across Kenya from patients of various ages with severe acute respiratory illness (SARI) or influenza-like illness (ILI) will be analysed. Following initial rt-PCR screening, specimens positive for influenza viruses, RSV, human coronaviruses, rhinoviruses and other respiratory

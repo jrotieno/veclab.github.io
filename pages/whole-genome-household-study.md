@@ -12,7 +12,7 @@ header: no
 
 <div class="large-8 columns">
 <p><strong>Genome Analysis to Track Transmission and Evolution of Respiratory Virus Epidemics</strong></p>
-<p>Study lead: Dr Charles Agoti</p>
+<p><strong> Study PI: </strong><a href="{{ site.url }}/charles-agoti"> Charles Agoti (BSc, MSc, PhD)</a></p>
 <p> 
 A wide range of respiratory viruses co-circulates in human populations and cause overlapping respiratory symptoms. Molecular analysis (e.g. PCR and partial sequencing) allows identification of virus species and genotyping to study the molecular epidemiology of these viruses. Within our SPReD studies, we undertake whole genome sequencing to obtain the fine detail of who acquires infection from whom and virus micro-evolutionary patterns.
 </p>

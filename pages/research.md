@@ -4,7 +4,6 @@ subheadline: "Research"
 permalink: "/research/"
 header: no
 ---
-{% include alert warning="This website is work in progress!" %}
 
 <div class="row">
     <div class="large-4 columns">
@@ -25,15 +24,15 @@ header: no
         <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
         <p>This project comprises of several nested studies that are spearheaded by different members of the group.</p>
         <div>
-        <ol>
-        <li><a href="{{ site.url }}/spred-kenya">Country-SPReD (Kenya)</a></li>
-        <li><a href="{{ site.url }}/whole-genome-household-study">Whole genome households study</a></li>
-        <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants in virus transmission and evolution</a></li>
-
-        <li><a href="{{ site.url }}/local-spred">Local-SPReD (Kilifi)</a></li>
-        <li><a href="{{ site.url }}/WAIFW">Epidemiological and genetic sequence modelling</a></li>
-        <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1 in Kenya</a></li>
-        </ol>
+<ol>
+ <li><a href="{{ site.url }}/spred-kenya">Country-SPReD (Kenya)</a></li>
+ <li><a href="{{ site.url }}/local-spred">Local-SPReD (Kilifi)</a></li>
+ <li><a href="{{ site.url }}/whole-genome-household-study">Whole genome households study</a></li>
+ <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants in virus transmission and evolution</a></li>
+ <li><a href="{{ site.url }}/WAIFW">Epidemiological and genetic sequence modelling</a></li>
+ <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1 in Kenya</a></li>
+ <li><a href="{{ site.url }}/rfid-contacts-study">The RFID contacts study</a></li>
+</ol>
         </div>
     </div>
  </div><!-- /.row -->
@@ -42,7 +41,7 @@ header: no
 
  <div class="row">
   <div class="large-4 columns">
-  <img src="{{ site.url }}/images/rotavirus.png" alt="">
+  <img src="{{ site.url }}/images/rota_positive_2010_2016.png" alt="">
   </div>
 
   <div class="large-8 columns">

@@ -17,8 +17,7 @@ header: no
 Quantifying protective correlates of RSV specific maternal immunity
 </strong>
 </p>
-
-<p><strong>Study PI:</strong> Joyce Nyiro</p>
+<p><strong> Study PI: </strong><a href="{{ site.url }}/joyce-nyiro"> Joyce Nyiro (BSc, MSc)</a></p>
 
 <p class="text-justify">
 A key target group for RSV disease prevention is young infants under 6 months of age for whom the risk of severe disease is high. Immunisation is the ideal strategy for prevention but to date there are no licensed vaccines for RSV. Early advances in development of a vaccine to provide direct protection to the infant has been impeded by historical failure of a formalin inactivated vaccine and difficulties in designing an immunogenic live-attenuated vaccine that is well tolerated by the young infant. Consequently, maternal vaccination to boost the level of RSV-specific antibodies in pregnant women to extend the duration of protective antibodies in early infancy has been considered as a plausible approach. The success in development of an effective maternal RSV vaccine is governed by quantitative data on the level of maternal RSV specific neutralising antibodies at birth required to provide protection against RSV disease among infants, and the duration over which this protection would last.

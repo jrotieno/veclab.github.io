@@ -12,7 +12,7 @@ header: no
 
 <div class="large-8 columns">
 <p><strong>Exploring the role of minority variants in elucidating virus transmission and evolution</strong>
-<p><strong> Study PI: </strong>Dr George Githinji</p>
+<p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji"> George Githinji (PhD)</a></p>
 <p class="text-justify">
 Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.
 </p>

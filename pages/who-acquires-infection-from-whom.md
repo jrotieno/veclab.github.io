@@ -12,8 +12,9 @@ header: no
 
 <div class="large-8 columns">
 <p><strong>Integrating viral RNA sequence data and epidemiological data to define transmission patterns for respiratory syncytial virus (RSV)</strong>
-<p><strong>Study Lead:</strong> Ivy Kombe</p>
-<p> 
+
+<p><strong> Study PI: </strong><a href="{{ site.url }}/ivy-kombe"> Ivy Kadzo Kombe (PhD student))</a></p>
+ <p class="text-justify"> 
 In order to control diseases, we first need to increase our understanding of transmission. This can be aided by analyzing as much data as possible within a single framework. This project aims to integrate different data types in a single mathematical model in order to infer the transmission chain. 
 </p>
 
