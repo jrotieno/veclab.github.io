@@ -6,14 +6,18 @@ permalink: "/about/"
 header: no
 ---
 
-<p class="text-justify">
-The Virus Epidemiology and Control Research Group, based at the KEMRI-Wellcome Trust Research Programme in Kenya, 
-investigates the transmission dynamics of virus pathogens, particularly respiratory and enteric viruses. Our aim is to increase basic 
-understanding and to inform control strategies. Our research work applies a wide range of multidisciplinary approaches that involve molecular, 
+<p class="text-justify" class="lead">
+The Virus Epidemiology and Control Research Group is based at the <a href="http://www.kemri-wellcome.org" target="blank">KEMRI-Wellcome Trust Research Programme</a> in Kenya. 
+Our group investigates the transmission dynamics of virus pathogens, particularly respiratory and enteric viruses to increase basic 
+understanding and to inform control strategies. 
+</p>
+
+<p class="text-justify" class="lead">
+Our research work applies a wide range of multidisciplinary approaches that involve molecular, 
 immunological, bioinformatics, mathematical modelling, electronic tagging and social tools.
 </p>
 
-<p></p>
+
 <hr>
 
 <div class="row">
