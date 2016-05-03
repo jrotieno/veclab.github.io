@@ -51,6 +51,7 @@ homepage: true
 <h2>Virus Epidemiology and Control Research Group</h2>
 
 </div>
-
-We are based at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a> in Kenya and we conduct intensive and long-term surveillance of viral pathogens. We apply a range of approaches that include; molecular, immunological, bioinformatics, social, electronic, and modelling tools.
+<p class="lead">
+Based at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a> in Kenya, we conduct intensive and long term studies into population dynamics of viral pathogens informing intervention strategies.  
+</p>
 <hr>
