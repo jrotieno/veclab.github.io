@@ -24,7 +24,7 @@ permalink: "/team/"
 </div>
 
 <div class="row t30">
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Tom-Yates" alt="" height="90" width="95"></div><strong>Tom Yates</strong><div>Visiting scientist</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Tom-Yates" alt="" height="90" width="95"></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="90" width="100"></div><strong>Grieven Otieno</strong><div>Data manager</div>
