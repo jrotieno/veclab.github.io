@@ -1,17 +1,17 @@
 - name: GitHub
   url: http://github.com/veclab
   class: icon-github
-  title: Code
+  title: We are on github!
 
 #- name: YouTube
 #  url: http://www.youtube.com/veclab
 #  class: icon-youtube
 #  title: "Videos"
 
-#- name: Twitter
-#  url: http://twitter.com/veclab
-#  class: icon-twitter
-#  title: "Follow us on twitter"
+- name: Twitter
+  url: http://twitter.com/veclab_
+  class: icon-twitter
+  title: "Follow us on twitter"
 
 #- name: Facebook
 #  url: http://www.facebook.com/
