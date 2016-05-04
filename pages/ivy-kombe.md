@@ -24,7 +24,7 @@ contribute or converge to singular outcomes.
 </p>
 
 <p class="text-justify">
-My PhD project provides an opportunity to study such processes and how they can be applied in
+My PhD project provides an opportunity to study such processes and their application in
 interupting disease transmission.
 </p>
 </div>
