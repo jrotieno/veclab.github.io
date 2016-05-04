@@ -19,8 +19,6 @@ Characterization of transmission pathways of viral respiratory infections in Kil
 </p>
 <p><strong> Study PI: </strong><a href="{{ site.url }}/joyce-nyiro"> Joyce Nyiro (BSc, MSc)</a></p>
 
-<p><strong>Study PI:</strong> Joyce Nyiro</p>
-
 <p class="text-justify">
 Acute respiratory infections (ARI) are a leading cause of morbidity and mortality among people of all ages, with majority of the burden occurring in low-resource countries. Many studies have associated viruses with ARI in children admitted to hospital, and immunisation is considered to be the most appropriate prevention strategy. However, immunisation is hindered by the rapid virus evolution, presence of diverse forms unequally recognised immunologically, waning of specific immunity and uncertainty in identifying the optimal target population.
 </p>
