@@ -5,24 +5,24 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: kilifi-1.jpg
-  title: VECLab
+header: no
+#  image_fullwidth: rota_positive_2010_2016.png 
+#  title: VECLab
 
-widget3:
-  title: "About Us       "
-  url: '/about/'
-  text: ' '
+#widget3:
+#  title: "About Us       "
+#  url: '/about/'
+#  text: ' '
 
-widget2:
-  title: "Publications"
-  url: '/publications/'
-  text: ' '
+#widget2:
+#  title: "Publications"
+#  url: '/publications/'
+#  text: ' '
 
-widget1:
-  title: "Research"
-  url: '/research/'
-  text: ' '
+#widget1:
+#  title: "Research"
+#  url: '/research/'
+#  text: ' '
 
 # Use the call for action to show a button on the frontpage
 #
@@ -47,11 +47,15 @@ homepage: true
 <hr>
 <div>
 
-{% include alert warning="This website is work in progress!" %}
-<h2>Virus Epidemiology and Control Research Group</h2>
+<section>
+   <h2>Virus Epidemiology and Control Research Group</h2>
+</section>
 
 </div>
+<section>
 <p class="lead">
 Based at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a> in Kenya, we conduct intensive and long term studies into population dynamics of viral pathogens informing intervention strategies.  
 </p>
+</section>
+
 <hr>
