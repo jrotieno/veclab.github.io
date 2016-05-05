@@ -7,7 +7,8 @@ header: no
 
 <div class="row">
  <div class="large-4 columns">
-  <img src="{{ site.url }}/images/spred.png" alt="">
+ 
+  <img class="research" src="{{ site.url }}/images/spred.png" alt="">
  </div>
     
 <div class="large-8 columns">
@@ -45,7 +46,7 @@ header: no
 
  <div class="row">
   <div class="large-4 columns">
-  <img src="{{ site.url }}/images/rota_positive_2010_2016.png" alt="">
+  <img class="research" src="{{ site.url }}/images/rota_positive_2010_2016.png" alt="">
   </div>
 
   <div class="large-8 columns">
@@ -65,7 +66,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  <img src="{{ site.url }}/images/rsv-modelling-1.png" alt="">
+  <img class="research" src="{{ site.url }}/images/rsv-modelling-1.png" alt="">
   </div>
 
   <div class="large-8 columns">
@@ -105,7 +106,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  <img src="{{ site.url }}/images/path.png" alt="">
+  <img class="research" src="{{ site.url }}/images/path.png" alt="">
   </div>
 
   <div class="large-8 columns">
@@ -126,7 +127,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  <img src="{{ site.url }}/images/rsv-immunology-studies.png" alt="">
+  <img class="research" src="{{ site.url }}/images/rsv-immunology-studies.png" alt="">
   </div>
 
   <div class="large-8 columns">
