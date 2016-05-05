@@ -25,7 +25,7 @@ homepage: true
 
 <section>
 <p class="lead">
-Based at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a> in Kenya, we conduct intensive and long term studies into population dynamics of viral pathogens informing intervention strategies.  
+Located in Kenya, at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a> in Kenya, we conduct intensive and long term studies into population dynamics of viral pathogens informing intervention strategies.  
 </p>
 </section>
 
