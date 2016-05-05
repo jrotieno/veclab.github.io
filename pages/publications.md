@@ -37,6 +37,7 @@ permalink: "/publications/"
 <div class="row">
  
  <div class="small-3 columns">
+ 
  <p class="lead">
    Successive Respiratory Syncytial Virus Epidemics in Local Populations Arise from Multiple Variant Introductions, Providing Insights into Virus Persistence.
 </p>
@@ -55,7 +56,7 @@ permalink: "/publications/"
     Frequent Asymptomatic Respiratory Syncytial Virus Infections During an Epidemic in a Rural Kenyan Household Cohort.
 </p>
 <p class="text-justify">
-  <a href="">Munywoki et al. 2015. The Journal of Infectious Diseases</a></p>
+  <a href="http://jid.oxfordjournals.org/content/212/11/1711">Munywoki et al. 2015. The Journal of Infectious Diseases</a></p>
 </div>
 
 <div class="small-3 columns">
@@ -71,7 +72,7 @@ permalink: "/publications/"
 <p class="lead">
  Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Whole-Genome Sequencing.
 </p>
-<p class="text-justify"><a href="">Agoti et al. 2015. Journal of Virology</a></p>
+<p class="text-justify"><a href="http://jid.oxfordjournals.org/content/212/11/1711.full">Agoti et al. 2015. Journal of Virology</a></p>
 </div>
 
 <div class="small-3 columns">
@@ -80,7 +81,7 @@ permalink: "/publications/"
 
 <div class="small-3 columns">
 <p class="lead"> Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding </p>
-<p><a href="">Munywoki et al. 2015. Epidemiology and infection.</a></p>
+<p><a href="http://journals.cambridge.org/action/displayFulltext?type=6&fid=9568673&jid=HYG&volumeId=143&issueId=04&aid=9568672&bodyId=&membershipNumber=&societyETOCSession=&fulltextType=RA&fileId=S0950268814001393">Munywoki et al. 2015. Epidemiology and infection.</a></p>
 </div>
 
 <div class="small-3 columns">
@@ -96,7 +97,7 @@ permalink: "/publications/"
 </div>
 
 <div class="small-3 columns">
- <img class="" src="{{ site.url }}/images/article_img/Kinyanjui-plos-one-2015.png" alt="">
+ <img class="" src="{{ site.url }}/images/article_img/kinyanjui-plos-one-2015.png" alt="">
 </div>
 
 <div class="small-3 columns">
