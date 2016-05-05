@@ -21,6 +21,8 @@ permalink: "/publications/"
 <p class="lead">
   Influenza activity in Kenya, 2007-2013: timing, association with climatic factors, and implications for vaccination campaigns
 </p>
+
+ <p><a href="http://onlinelibrary.wiley.com/doi/10.1111/irv.12393/abstract;jsessionid=708CD6AF0A42594A081D06C29B3438A6.f04t03" target="blank">Emukule et al. Microbiology & Virology</a></p>
 </div>
 
 <div class="small-3 columns">
@@ -109,4 +111,3 @@ permalink: "/publications/"
 </div>
 
 </div>
-
