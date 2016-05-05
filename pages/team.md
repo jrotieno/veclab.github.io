@@ -20,7 +20,7 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/james-otieno"><img src="{{ site.url }}/images/James-Otieno.jpg" alt="" height="100" width="115"></a></div><strong><a>James Otieno</a></strong><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"></div><strong><a>Joyce Nyiro</a></strong><div>Research officer</div></div> 
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/irene-adema"><img src="{{ site.url }}/images/Irene-Adema.jpg" alt="" height="90" width="100"></a></div><strong><a>Irene Adema</a></strong><div>Assistant research officer</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a>Everlyn Kamau</a></strong><div>Research officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a>Everlyn Kamau</a></strong><div>Assistant research officer</div></div>
 </div>
 
 <div class="row t30">

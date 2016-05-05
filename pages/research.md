@@ -6,36 +6,40 @@ header: no
 ---
 
 <div class="row">
-    <div class="large-4 columns">
-        <img src="{{ site.url }}/images/scale.png" alt="">
-    </div>
+ <div class="large-4 columns">
+  <img src="{{ site.url }}/images/spred.png" alt="">
+ </div>
     
-    <div class="large-8 columns">
-        <p><strong>Studying the Pathways of Respiratory Virus Diseases (SPReD)</strong></p>
-    
-        <p class="text-justify">
-        SPReD aims to advance understanding of the nature of spread of respiratory viruses (RSV, influenza, coronavirus, rhinovirus) at 
-                different scales of observation from the individual, household and school, local community to countrywide, 
-                and use this information to innovate interventions.  The work represents an integration of epidemiological, 
-                virus sequence, contact and mobility data.
-        </p>
+<div class="large-8 columns">
+ <p><strong>Studying the Pathways of Respiratory Virus Diseases (SPReD)</strong></p>
+  
+  <p class="text-justify">
+   SPReD aims to advance understanding of the nature of spread of respiratory viruses (RSV, influenza, coronavirus, rhinovirus) at 
+   different scales of observation from the individual, household and school, local community to countrywide, 
+   and use this information to innovate interventions.  The work represents an integration of epidemiological, 
+   virus sequence, contact and mobility data and comprises of a number of sub-studies.
+   </p>
+       
+ <p><strong>Funding:</strong> Wellcome Trust Senior Investigator Award</p>
+       
+  <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
+<div>
 
-        <p><b>Funding:</b> Wellcome Trust Senior Investigator Award</p>
-        <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
-        <p>This project comprises of several nested studies that are spearheaded by different members of the group.</p>
-        <div>
-<ol>
- <li><a href="{{ site.url }}/spred-kenya">Country-SPReD (Kenya)</a></li>
- <li><a href="{{ site.url }}/local-spred">Local-SPReD (Kilifi)</a></li>
- <li><a href="{{ site.url }}/whole-genome-household-study">Whole genome households study</a></li>
- <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants in virus transmission and evolution</a></li>
+<!--
+<ul>
+ <li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
+ <li><a href="{{ site.url }}/local-spred">Local-SPReD</a></li>
+ <li><a href="{{ site.url }}/whole-genome-household-study">Household study</a></li>
+ <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants</a></li>
  <li><a href="{{ site.url }}/WAIFW">Epidemiological and genetic sequence modelling</a></li>
- <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1 in Kenya</a></li>
+ <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
  <li><a href="{{ site.url }}/rfid-contacts-study">The RFID contacts study</a></li>
-</ol>
-        </div>
-    </div>
- </div><!-- /.row -->
+</ul>
+-->
+
+  </div>
+</div>
+</div><!-- /.row -->
 
 <hr>
 
@@ -61,7 +65,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  <img src="{{ site.url }}/images/veclab-epidemics.png" alt="">
+  <img src="{{ site.url }}/images/rsv-modelling-1.png" alt="">
   </div>
 
   <div class="large-8 columns">
@@ -81,7 +85,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  
+  <img src="{{ site.url }}/images/decide.png" alt="">
   </div>
 
   <div class="large-8 columns">
@@ -102,7 +106,7 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  
+  <img src="{{ site.url }}/images/path.png" alt="">
   </div>
 
   <div class="large-8 columns">

@@ -19,8 +19,6 @@ header: no
 </div>
 </div>
 
-
-
 <div class = "small-8 columns" >
 <h6>George Githinji (BSc, PhD)</h6>
 <p class="text-justify">
@@ -39,8 +37,6 @@ of the PfEMP1 molecule that is associated with characteristic expression pattern
 <p class="text-justify">
 Before joining the programme, I trained under Dr Patrick Duffy as a visiting student at the MoMs malaria project 
 in Tanzania and SBRI (now Center for Infectious Disease Research) and attended bioinformatics courses at the University of Washington.
-
-
 </p>
 
 </div>

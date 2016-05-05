@@ -21,16 +21,84 @@ Our research work applies a wide range of multidisciplinary approaches that invo
 immunological, bioinformatics, mathematical modelling, electronic tagging and social tools.
 </p>
 
-
 <hr>
 
 <div class="row">
   <div class="small-12 columns">
   <figure>
-    <img src="{{ site.url }}/images/RSV_A_and_B_2002_2016_combined.png" alt="RSV A and B prevalence from 2002 to 2016">
-   <figcaption>We conduct long term surveillance of several respiratory and enteric viruses. This figure shows RSV A and B positive cases  in Kilifi county from 2002 to 2016.</figcaption>
+   <img src="{{ site.url }}/images/about.png" alt="RSV A and B prevalence from 2002 to 2016">
+  <figcaption>
+  <center> Seasonality of  RSV in Kilifi from 2002 to 2016</center>
+  </figcaption>
   </figure>
   </div>
 </div>
 
 <hr>
+
+<br>
+
+<div class="row">
+ 
+ <div class="small-2 columns">
+ <div class="img">
+  <img src="{{ site.url }}/images/university-of-warwick-new-logo.jpg" alt="University of Warwick">
+  </div>
+ </div>
+
+ <div class="small-2 columns">
+ <div class="img">
+  <img src="{{ site.url }}/images/university-of-oxford.png" alt="University of Warwick">
+  </div>
+ </div>
+
+ <div class="small-2 columns">
+ <div class="img">
+  <img src="{{ site.url }}/images/wtsi-logo.png" alt="Wellcone Trust Sanger Institute">
+  </div>
+ </div>
+
+<div class="small-2 columns">
+<div class="img">
+ <img src="{{ site.url }}/images/lshtm-logo.jpg" alt="LSHTM">
+</div>
+</div>
+
+<div class="small-2 columns">
+<div class="img">
+ <img src="{{ site.url }}/images/isi-logo.jpg" alt="ISI">
+</div>
+</div>
+
+<div class="small-2 columns">
+<div class="img">
+ <img src="{{ site.url }}/images/university-of-manchester-logo.jpg" alt="University of Manchester">
+ </div>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="small-2 columns">
+<div class="img">
+ <img src="{{ site.url }}/images/cdc-kenya-logo.svg" alt="CDC-Kenya">
+ </div>
+</div>
+
+<div class="small-2 columns">
+<div class="img">
+ <img src="{{ site.url }}/images/rega-logo.png" alt="REGA">
+ </div>
+</div>
+
+<div class="small-2 columns end">
+<div class="img">
+ <img src="{{ site.url }}/images/bocconi.png" alt="Bocconi">
+ </div>
+</div>
+
+</div>
+
+<hr>
+
