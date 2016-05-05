@@ -1,19 +1,16 @@
 ---
 layout: page-fullwidth
-#subheadline: "Our publications"
-#teaser: "Work in progress..."
 header: no
 permalink: "/publications/"
 ---
+
 <p><strong>2016</strong></p>
+
 <div class="row">
 
 <div class="small-3 columns">
-<p class="lead" >
-    Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya
-</p>
-
-<p> <a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="blank">Otieno et al. Journal of Virology</a></p>
+ <p class="lead"> Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya </p>
+ <p><a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="blank">Otieno et al. Journal of Virology</a></p>
 </div>
 
 <div class="small-3 columns">
@@ -28,10 +25,10 @@ permalink: "/publications/"
 </div>
 
 <div class="small-3 columns">
-<img class="" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
+ <img class="" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
 </div>
 
-</div>
+</div><!-- end row -->
 
 <hr>
 
@@ -72,7 +69,7 @@ permalink: "/publications/"
 
 <div class="small-3 columns">
 <p class="lead">
-Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Whole-Genome Sequencing.
+ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Whole-Genome Sequencing.
 </p>
 <p class="text-justify"><a href="">Agoti et al. 2015. Journal of Virology</a></p>
 </div>
@@ -87,16 +84,15 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 </div>
 
 <div class="small-3 columns">
-<img class="" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
+ <img class="" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
 </div>
-
 </div>
 
 <div class="row" >
 
 <div class="small-3 columns">
-    <p class="lead">Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting</p>
-    <p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138018" target="blank">Kinyanjui et al. 2015. PloS one.</a></p>
+ <p class="lead">Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting</p>
+ <p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138018" target="blank">Kinyanjui et al. 2015. PloS one.</a></p>
 </div>
 
 <div class="small-3 columns">
@@ -109,7 +105,6 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 </div>
 
 <div class="small-3 columns">
-  
  <img class="" src="{{ site.url }}/images/article_img/nyiro-vaccine-2015.png" alt="">
 </div>
 
