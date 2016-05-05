@@ -97,7 +97,6 @@ header: no
   </p>
     
     <p><strong>Funding:</strong> European Research Council</p>
-    <p><strong>Collaborations:</strong> Bocconi University, University of Pisa, Imperial College, Fondazione Bruno Kessler Trento</p>
 
   </div>
 </div>
@@ -124,4 +123,28 @@ header: no
 </div>
 
 <hr>
+
+<div class="row">
+  <div class="large-4 columns">
+  <img src="{{ site.url }}/images/rsv-immunology-studies.png" alt="">
+  </div>
+
+  <div class="large-8 columns">
+  <p><strong>RSV Immunology Studies</strong></p>
+  
+  <p class="text-justify">
+
+    In this study we use systems immunology approaches to identify biomarkers
+    of severe Respiratory Syncytial Virus infection in infancy. We use a wide
+    range of systems tools ranging from transcriptomics, mass cytometry,
+    metabolomics and studies of the respiratory microbiome to identify host
+    factors that are uniquely expressed in severe disease. 
+  </p>
+    
+    <p><strong>Funding:</strong> Wellcome Trust Training Fellowship</p>
+
+  </div>
+</div>
+<hr>
+
 
