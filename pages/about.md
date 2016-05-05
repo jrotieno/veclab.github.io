@@ -36,7 +36,12 @@ immunological, bioinformatics, mathematical modelling, electronic tagging and so
 
 <hr>
 
-<br>
+<div class="row">
+<div class="small-3 small-centered columns">
+<h6>Collaborating institutions</h6></center>
+</div>
+</div>
+
 
 <div class="row">
  
@@ -82,7 +87,7 @@ immunological, bioinformatics, mathematical modelling, electronic tagging and so
 
 <div class="small-2 columns">
 <div class="img">
- <img src="{{ site.url }}/images/cdc-kenya-logo.svg" alt="CDC-Kenya">
+ <img src="{{ site.url }}/images/CDC-logo.jpg" alt="CDC">
  </div>
 </div>
 
