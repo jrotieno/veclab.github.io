@@ -17,7 +17,7 @@ permalink: "/publications/"
 </div>
 
 <div class="small-3 columns">
-  <img class="thumbnail" src="{{ site.url }}/images/article_img/Otieno-et-al-2015-jvi.png" alt="">
+  <img class="" src="{{ site.url }}/images/article_img/Otieno-et-al-2015-jvi.png" alt="">
 </div>
 <!-- -->
 
@@ -28,7 +28,7 @@ permalink: "/publications/"
 </div>
 
 <div class="small-3 columns">
-<img class="thumbnail" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
+<img class="" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
 
 </div>
 
@@ -46,7 +46,7 @@ permalink: "/publications/"
  </div>
 
 <div class="small-3 columns">
-  <img class="thumbnail" src="{{ site.url }}/images/article_img/Agoti-et-al-2015.jpg" alt="" height="100" width="150">
+  <img class="" src="{{ site.url }}/images/article_img/Agoti-et-al-2015.jpg" alt="" height="100" width="150">
 </div>
 
 
@@ -60,7 +60,7 @@ permalink: "/publications/"
 </div>
 
 <div class="small-3 columns">
-  <img class="thumbnail" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015.jpg" alt="">    
+  <img class="" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015.jpg" alt="">    
 </div>
 
 </div>
@@ -76,7 +76,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 </div>
 
 <div class="small-3 columns">
-  <img class="thumbnail" src="{{ site.url }}/images/article_img/Agoti-et-al-2015-jvi.jpg" alt="">
+  <img class="" src="{{ site.url }}/images/article_img/Agoti-et-al-2015-jvi.jpg" alt="">
 </div>
 
 <div class="small-3 columns">
@@ -84,7 +84,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 <p><a href="">Munywoki et al. 2015. Epidemiology and infection.</a></p>
 </div>
 <div class="small-3 columns">
-<img class="thumbnail" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
+<img class="" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 </div>
 
 <div class="small-3 columns">
- <img class="thumbnail" src="{{ site.url }}/images/article_img/Kinyanjui-plos-one-2015.png" alt="">
+ <img class="" src="{{ site.url }}/images/article_img/Kinyanjui-plos-one-2015.png" alt="">
 </div>
 
 <div class="small-3 columns">
@@ -107,7 +107,7 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 
 <div class="small-3 columns">
   
- <img class="thumbnail" src="{{ site.url }}/images/article_img/nyiro-vaccine-2015.png" alt="">
+ <img class="" src="{{ site.url }}/images/article_img/nyiro-vaccine-2015.png" alt="">
 </div>
 
 <div class="small-3 columns">
