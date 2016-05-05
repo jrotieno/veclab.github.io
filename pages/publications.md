@@ -16,7 +16,6 @@ permalink: "/publications/"
 <div class="small-3 columns">
   <img class="" src="{{ site.url }}/images/article_img/Otieno-et-al-2015-jvi.png" alt="">
 </div>
-<!-- -->
 
 <div class="small-3 columns">
 <p class="lead">
@@ -28,7 +27,7 @@ permalink: "/publications/"
  <img class="" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
 </div>
 
-</div><!-- end row -->
+</div>
 
 <hr>
 
