@@ -6,7 +6,7 @@ header: no
 permalink: "/publications/"
 ---
 <p><strong>2016</strong></p>
-<div class="row t60">
+<div class="row">
 
 <div class="small-3 columns">
 <p class="lead" >
@@ -29,14 +29,16 @@ permalink: "/publications/"
 
 <div class="small-3 columns">
 <img class="" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
-
 </div>
 
 </div>
+
 <hr>
+
 <p><strong>2015</strong></p>
 
-<div class="row t30">
+<div class="row">
+ 
  <div class="small-3 columns">
  <p class="lead">
    Successive Respiratory Syncytial Virus Epidemics in Local Populations Arise from Multiple Variant Introductions, Providing Insights into Virus Persistence.
@@ -83,10 +85,11 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 <p class="lead"> Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding </p>
 <p><a href="">Munywoki et al. 2015. Epidemiology and infection.</a></p>
 </div>
+
 <div class="small-3 columns">
 <img class="" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
-
 </div>
+
 </div>
 
 <div class="row" >
@@ -108,10 +111,6 @@ Local Evolutionary Patterns of Human Respiratory Syncytial Virus Derived from Wh
 <div class="small-3 columns">
   
  <img class="" src="{{ site.url }}/images/article_img/nyiro-vaccine-2015.png" alt="">
-</div>
-
-<div class="small-3 columns">
-
 </div>
 
 </div>
