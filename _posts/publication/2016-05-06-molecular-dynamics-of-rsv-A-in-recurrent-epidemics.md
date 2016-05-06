@@ -6,7 +6,7 @@ title:  "Evolutionary dynamics of RSV-A in recurrent epidemics"
 #meta_teaser: "."
 breadcrumb: true
 #categories:
-#    - information
+#    - publication
 tags:
     - ON1
     - RSV
