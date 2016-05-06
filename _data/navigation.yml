@@ -21,3 +21,7 @@
 - title: Blog
   url: "/blog/"
   side: right
+
+- title: Contact us
+  url: "/contact/"
+  side: right
