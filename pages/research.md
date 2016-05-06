@@ -33,7 +33,7 @@ header: no
  <li><a href="{{ site.url }}/genomics-and-transmission-study">Genomics and transmission</a></li>
  <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants</a></li>
  <li><a href="{{ site.url }}/integrated-data-modelling">Integrated data modelling</a></li>
- <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylo-geography of ON1 genotype</a></li>
+ <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
  <li><a href="{{ site.url }}/social-networks-study">Social networks study</a></li>
 </ul>
 </p>
@@ -68,7 +68,10 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-  <img class="research" src="{{ site.url }}/images/rsv-modelling-1.png" alt="">
+  <figure>
+   <img class="research" src="{{ site.url }}/images/rsv-modelling.png" alt="">
+  <center><figcaption>Kinyanjui et al, PLoS ONE 2015</figcaption></center>
+  </figure>
   </div>
 
   <div class="large-8 columns">

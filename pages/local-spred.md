@@ -7,14 +7,14 @@ header: no
 
 <div class="row">
 <div class="large-4 columns">
-<img src="{{ site.url }}/images/local-spred.png" alt="" height="200" width="225">
+<img src="{{ site.url }}/images/local-spred.png" alt="">
 </div>
 
 <div class="large-8 columns">
 
 <p>
 <strong>
-Characterization of transmission pathways of viral respiratory infections in Kilifi county
+Transmission Pathways of Viral Respiratory Infections in Kilifi County (Local-SPReD)
 </strong>
 </p>
 <p><strong> Study PI: </strong><a href="{{ site.url }}/joyce-nyiro"> Joyce Nyiro (BSc, MSc)</a></p>
