@@ -79,7 +79,8 @@ header: no
   Unit (MORU), WT Major Overseas Programme in Bangkok, Thailand.  A confidentiality agreement prevents saying more
   </p>
     
-    <p><strong>Funding:</strong> GSK Vaccines and Biologicals</p>
+ <p><strong>Funding:</strong> GSK Vaccines and Biologicals</p>
+ <p><strong>Collaborators:</strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White</p>
 
   </div>
 </div>
