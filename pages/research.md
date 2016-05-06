@@ -30,11 +30,11 @@ header: no
 <ul id="hover1" class="f-dropdown" data-dropdown-content>
  <li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
  <li><a href="{{ site.url }}/local-spred">Local-SPReD</a></li>
- <li><a href="{{ site.url }}/whole-genome-household-study">Household study</a></li>
+ <li><a href="{{ site.url }}/genomics-and-transmission-study">Genomics and transmission</a></li>
  <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants</a></li>
- <li><a href="{{ site.url }}/WAIFW">Epidemiological and genetic sequence modelling</a></li>
- <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
- <li><a href="{{ site.url }}/rfid-contacts-study">The RFID contacts study</a></li>
+ <li><a href="{{ site.url }}/integrated-data-modelling">Integrated data modelling</a></li>
+ <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylo-geography of ON1 genotype</a></li>
+ <li><a href="{{ site.url }}/social-networks-study">Social networks study</a></li>
 </ul>
 </p>
 

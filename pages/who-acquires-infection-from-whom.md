@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Who Acquires Infection from Whom"
-permalink: "/WAIFW/"
+subheadline: "Integrated data modelling"
+permalink: "/integrated-data-modelling/"
 header: no
 ---
 
@@ -11,7 +11,7 @@ header: no
 </div>
 
 <div class="large-8 columns">
-<p><strong>Integrating viral RNA sequence data and epidemiological data to define transmission patterns for respiratory syncytial virus (RSV)</strong>
+<p><strong>Integrating sequence and epidemiological data to define RSV transmission patterns</strong>
 
 <p><strong> Study PI: </strong><a href="{{ site.url }}/ivy-kombe"> Ivy Kadzo Kombe (PhD student))</a></p>
  <p class="text-justify"> 

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Whole Genome Household Study"
-permalink: "/whole-genome-household-study/"
+subheadline: "Genomics and transmission study"
+permalink: "/genomics-and-transmission-study/"
 header: no
 ---
 

@@ -16,7 +16,7 @@ I joined KEMRI-WTRP in 2009 as a research intern to investigate the spatial and 
 </p>
 
 <p class="text-justify">
-Currently I am a PhD student at the Open University and leading an <a href="{{ site.url }}/rfid-contacts-study"> exciting new study to further understand how people interact in schools, households and the community using wearable proximity sensors and GPS tracking devices </a>. I hope to use this data to design intervention measures such as alternative vaccination plans or social distancing to prevent the spread of respiratory infections.
+Currently I am a PhD student at the Open University and leading an <a href="{{ site.url }}/social-networks-study"> exciting new study to further understand how people interact in schools, households and the community using wearable proximity sensors and GPS tracking devices </a>. I hope to use this data to design intervention measures such as alternative vaccination plans or social distancing to prevent the spread of respiratory infections.
 </p>
 
 <p class="text-justify">
