@@ -1,9 +1,6 @@
 ---
 layout: frontpage
-
 header: no
-#  image_fullwidth: collage1.png
-
 permalink: /index.html
 homepage: true
 ---
@@ -31,10 +28,11 @@ Located in Kenya, at the <a href="http://www.kemri-wellcome.org" target="_blank"
 
 <hr>
 
-<!--
-<div class="row" >
-<div class="small-10 small-centered columns">
- <img src="{{ site.url }}/images/kemri-wellcome-trust.png" alt="KEMRI-Wellcome Trust Research Programme">
+<div class="row">
+ <div class="small-12 small-12-centered columns">
+  <img src="{{ site.url }}/images/warwick-kemri-logo.png" alt="">
+ </div>
 </div>
-</div>
--->
+
+<hr>
+

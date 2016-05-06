@@ -131,10 +131,9 @@ header: no
   </div>
 
   <div class="large-8 columns">
-  <p><strong>RSV Immunology Studies</strong></p>
+  <p><strong>Immunology of Severe RSV Disease</strong></p>
   
   <p class="text-justify">
-
     In this study we use systems immunology approaches to identify biomarkers
     of severe Respiratory Syncytial Virus infection in infancy. We use a wide
     range of systems tools ranging from transcriptomics, mass cytometry,

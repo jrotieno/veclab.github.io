@@ -16,10 +16,7 @@ viruses with an aim of improving strategies of control.
     We are also engaged in long term surveillence of burden of disease estimation, vaccine interventions evaluation and immuno-epidemiological research.
 </p>
 
-<p class="text-justify" class="lead">
-Our research work applies a wide range of multidisciplinary approaches that involve the application and development of molecular, 
-immunological, bioinformatics, mathematical modelling, electronic tagging and social tools.
-</p>
+
 
 <hr>
 
@@ -35,14 +32,20 @@ immunological, bioinformatics, mathematical modelling, electronic tagging and so
 </div>
 
 <hr>
+<p class="text-justify" class="lead">
+Our research work applies a wide range of multidisciplinary approaches that involve the application and development of molecular, 
+immunological, bioinformatics, mathematical modelling, electronic tagging and social tools. This is not done alone, and we have an excellent group of collaborators.
+</p>
+
+<hr>
 
 <div class="row">
-<div class="small-3 small-centered columns">
-<h6>Collaborating institutions</h6></center>
+<div class="small-12 small-centered columns">
+  <img src="{{ site.url }}/images/collaborators-logos.png" alt="Our collaborators">
 </div>
 </div>
 
-
+<!--
 <div class="row">
  
  <div class="small-2 columns">
@@ -104,6 +107,7 @@ immunological, bioinformatics, mathematical modelling, electronic tagging and so
 </div>
 
 </div>
+-->
 
 <hr>
 
