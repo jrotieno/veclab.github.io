@@ -1,22 +1,17 @@
 ---
 layout: page
-#subheadline: Welcome to Our blog
 title:  "Evolutionary dynamics of RSV-A in recurrent epidemics"
-#teaser: "Welcome message here ..."
-#meta_teaser: "."
 breadcrumb: true
-#categories:
-#    - publication
+categories:
+    - publication
 tags:
     - ON1
-    - RSV
+    - RSV-A
     - Phylogenetics
 
 permalink: blog/molecular-dynamics-of-rsv-A-in-recurrent-epidemics
 header: no
 comments: true
-#image:
-#      title: palm-tree.jpg
 author: James
 ---
 
