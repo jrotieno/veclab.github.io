@@ -28,6 +28,16 @@ Located in Kenya, at the <a href="http://www.kemri-wellcome.org" target="_blank"
 
 <hr>
 
+<center>
+<a href="{{ site.url }}/about" class="button radius">About us</a>
+<a href="{{ site.url }}/research" class="button radius">Our Research</a>
+<a href="{{ site.url }}/publications" class="button radius">Publications</a>
+<a href="{{ site.url }}/team" class="button radius">The Team</a>
+<a href="{{ site.url }}/blog" class="button radius">Read our Blog</a>
+<a href="{{ site.url }}/contact" class="button radius">Contact us</a>
+</center>
+
+<hr>
 <div class="row">
  <div class="small-12 small-12-centered columns">
   <img src="{{ site.url }}/images/warwick-kemri-logo.png" alt="">
