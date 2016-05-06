@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 meta_title: "Contact and use our contact form"
-subheadline: "Contact"
+subheadline: "How to contact us"
 header: no
 permalink: "/contact/"
 ---
@@ -15,7 +15,7 @@ If you have an interest in accessing study data or archived materials then in th
 </p>
 
 <p class="text-justify lead">
-You can <a href="http://kemri-wellcome.org/about-us/#ChildVerticalTab_15">download a data access </a> request form from our Programme  website.
+You can <a href="http://kemri-wellcome.org/about-us/#ChildVerticalTab_15">download a data access request form</a> from our Programme  website.
 
  If none of this applies or you have general enquiries then please <a href="mailto:SBaraka@kemri-wellcome.org">contact our project manager </a>. 
 </p>
