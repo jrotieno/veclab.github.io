@@ -7,7 +7,7 @@ header: no
 ---
 
 <p class="text-justify lead">
-The research group is based within the Epidemiology and Demography department of the <a href="http://www.kemri-wellcome.org" target="blank" > Wellcome Trust major overseas programme based at Kilifi</a>, coastal Kenya. We study a range of 
+The research group is based within the Epidemiology and Demography Department of the <a href="http://www.kemri-wellcome.org" target="blank" > Wellcome Trust Major Overseas Programme based at Kilifi</a>, coastal Kenya. We study a range of 
 respiratory and enteric viruses that are of major public health importance in the region. Our focus is understanding the transmission dynamics of pathogens such as RSV, Rotavirus and Influenza 
 viruses with an aim of improving strategies of control. 
 We are also engaged in long term surveillence of burden of disease estimation, vaccine interventions evaluation and immuno-epidemiological research.
