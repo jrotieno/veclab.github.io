@@ -18,16 +18,16 @@ header: no
    SPReD aims to advance understanding of the nature of spread of respiratory viruses (RSV, influenza, coronavirus, rhinovirus) at 
    different scales of observation from the individual, household and school, local community to countrywide, 
    and use this information to innovate interventions.  The work represents an integration of epidemiological, 
-   virus sequence, contact and mobility data and comprises of a number of sub-studies.
+   virus sequence, contact and mobility data.
    </p>
        
  <p><strong>Funding:</strong> Wellcome Trust Senior Investigator Award</p>
        
   <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
-<div>
 
-<!--
-<ul>
+<p> There are several
+<a href="#" data-dropdown="hover1" data-options="is_hover:true; hover_timeout:5000">sub-studies within SPReD </a>
+<ul id="hover1" class="f-dropdown" data-dropdown-content>
  <li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
  <li><a href="{{ site.url }}/local-spred">Local-SPReD</a></li>
  <li><a href="{{ site.url }}/whole-genome-household-study">Household study</a></li>
@@ -36,7 +36,9 @@ header: no
  <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
  <li><a href="{{ site.url }}/rfid-contacts-study">The RFID contacts study</a></li>
 </ul>
--->
+</p>
+
+<div>
 
   </div>
 </div>
