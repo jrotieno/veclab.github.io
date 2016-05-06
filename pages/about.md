@@ -30,7 +30,7 @@ We are also engaged in long term surveillence of burden of disease estimation, v
 
 <hr>
 <p class="text-justify lead">
-Our research work applies a wide range of multidisciplinary approaches that involve the application and development of molecular, 
+Our research is multi-disciplinary and applies a wide range of approaches that involve the application and development of molecular, 
 immunological, bioinformatics, mathematical modelling, electronic tagging and social tools. This is not done alone, and we have an excellent group of collaborators.
 </p>
 
