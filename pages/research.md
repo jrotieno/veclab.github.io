@@ -88,7 +88,10 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
+  <figure>
   <img src="{{ site.url }}/images/decide.png" alt="">
+  <center><figcaption>Poletti et al, BMC Med 2015</figcaption></center>
+  </figure>
   </div>
 
   <div class="large-8 columns">
