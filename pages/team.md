@@ -13,7 +13,7 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/charles-agoti"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></a></div><strong><a>Charles Agoti</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/nelson-kibinge"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></a></div><strong><a>Nelson Kibinge</a></strong><div>Postdoc</div></div>
 </div>
-
+<hr>
 <div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/ivy-kombe"><img src="{{ site.url }}/images/Ivy-Kombe.jpg" alt="" height="100" width="100"></a></div><strong><a href="{{ site.url }}/ivy-kombe">Ivy Kombe</a></strong><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/moses-kiti"><img src="{{ site.url }}/images/Moses-Kiti.jpg" alt="" height="87" width="100"></a></div><a><strong>Moses Kiti</strong></a><div>PhD Student</div></div>
@@ -22,53 +22,45 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/irene-adema"><img src="{{ site.url }}/images/Irene-Adema.jpg" alt="" height="90" width="100"></a></div><strong><a>Irene Adema</a></strong><div>Assistant research officer</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a>Everlyn Kamau</a></strong><div>Assistant research officer</div></div>
 </div>
-
+<hr>
 <div class="row">
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
+</div>
+
+<hr>
+<h6>Laboratory staff</h6>
+<div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="90" width="100"></div><strong>Grieven Otieno</strong><div>Data manager</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Martin-Mutunga.jpg" alt="" height="90" width="95"></div><strong>Martin Mutunga</strong><div>Lab technician</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Regina Njeru</strong><div>Lab technician</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Alex Gichuki</strong><div>Lab technician</div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clement-Lewa.jpg" alt="" height="90" width="95"></div><strong>Clement Lewa</strong><div>Lab technician</div></div>
+</div>
+
+<hr>
+<h6>Clinical staff</h6>
+<div class="row">
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Mwanajuma Ngama</strong><div>Clinical officer</div></div>
+<div class="small-2 columns end"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Timothy Etyang</strong><div>Clinical officer</div></div>
 </div>
 
 <hr>
 
+<h6>Operations</h6>
 <div class="row">
+  <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
 
-<div class="small-6 columns">
-<h6>Laboratory staff</h6>
-
-
-<ul class="square">
-    <li>Regina Njeru</li>
-    <li>Martin Mutunga</li>
-    <li>Alex Gichuki</li>
-    <li>Clement Lewa</li>
-</ul>
-</div>
-
-<div class="small-6 columns end">
-<h6>Clinical staff</h6>
-<ul class="square">
-    <li>Mwanajuma Ngama (Clinical Officer)</li>
-    <li>Timothy Etyang (Clinical Officer)</li>
-</ul>
-</div>
-
-
+  <div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="90" width="100"></div><strong>Grieven Otieno</strong><div>Data manager</div>
 </div>
 
 <hr>
 
 <h6>Alumni</h6>
-<div class="row t30">
+<div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt="" height="120" width="110"></div>Emelda Okiro</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt="" height="120" width="110"></div>Tim Kinyanjui</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt="" height="120" width="110"></div>Betty Owor</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Rachel-Ochola-2.jpg" alt="" height="120" width="110"></div>Rachel Ochola</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Clayton Onyango</div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"></div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Clayton Onyango</div>
 </div>
 <hr>
