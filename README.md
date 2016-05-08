@@ -1,6 +1,6 @@
-# veclab
-This repository contains the source code for the veclab.org virus epidemiology and control research group. 
+# Virec-group
+This repository contains the source code for the virec-group.org virus epidemiology and control research group. 
 
-Please see http://veclab.org for more information and what we do
+Please see http://virec-group.org for more information.
 
-For development concerns and issues please raise it on the issues page https://github.com/veclab/veclab.github.io/issues.  
+Please raise issues and concerns at https://github.com/veclab/veclab.github.io/issues.  
