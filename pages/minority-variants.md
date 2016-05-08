@@ -24,8 +24,8 @@ This project aims to explore whether changes in the composition of minor variant
 <p><strong>External collaborators:</strong>
 </p>
 <ul>
- <li>Dr Matt Cotten (Wellcome Trust Sanger Institute) </li>
- <li>Prof Paul Kellam (Wellcome Trust Sanger Institute) </li>
+ <li>Matt Cotten (Wellcome Trust Sanger Institute) </li>
+ <li>Paul Kellam (Wellcome Trust Sanger Institute) </li>
 <ul/>
 
 </div>
