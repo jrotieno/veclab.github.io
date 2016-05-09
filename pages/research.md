@@ -153,7 +153,7 @@ header: no
   </p>
     
    <p><strong>Funding:</strong> Wellcome Trust Training Fellowship</p>
-   <p><strong>Collaborators: </strong> Andrew Pollard, Peter Openshaw </p>
+   <p><strong>Collaborators: </strong> Andrew Pollard, Peter Openshaw, Helder Nakaya</p>
 
   </div>
 </div>
