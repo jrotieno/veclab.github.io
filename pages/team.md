@@ -39,7 +39,7 @@ permalink: "/team/"
 <hr>
 <h6>Clinical staff</h6>
 <div class="row">
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Mwanajuma Ngama</strong><div>Clinical officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mwanajuma-ngama"><img src="{{ site.url }}/images/Mwanajuma-Ngama.jpg" alt="" height="90" width="95"></a></div><strong>Mwanajuma Ngama</strong><div>Senior clinical officer</div></div>
 <div class="small-2 columns end"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Timothy Etyang</strong><div>Clinical officer</div></div>
 </div>
 
