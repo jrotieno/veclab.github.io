@@ -18,7 +18,7 @@ header: no
 In order to control diseases, we first need to increase our understanding of transmission. This can be aided by analyzing as much data as possible within a single framework. This project aims to integrate different data types in a single mathematical model in order to infer the transmission chain. 
 </p>
 
-<p><strong>External Collaborators:</strong> Prof Graham Medley, Dr Marc Baguelin </p>
+<p><strong>External Collaborators:</strong>Graham Medley, Marc Baguelin </p>
 
 </div>
 </div><!-- /.row -->

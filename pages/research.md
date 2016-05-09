@@ -23,7 +23,7 @@ header: no
        
  <p><strong>Funding:</strong> Wellcome Trust Senior Investigator Award</p>
        
-  <p><b>Collaborators:</b> University of Warwick, LSHTM, WTSI, ISI, Rega Institute </p>
+  <p><strong>Collaborators: </strong> Graham Medley, Pat Cane, Matt Cotten, Paul Kellam, Matt Keeling, Thomas House, Ciro Catuto, Jennifer Verani </p>
 
 <p> There are several
 <a href="#" data-dropdown="hover1" data-options="is_hover:true; hover_timeout:5000">sub-studies within SPReD </a>
@@ -60,6 +60,7 @@ header: no
   </p>
   
   <p><strong>Funding:</strong> GAVI</p>
+  <p><strong>Collaborators:</strong> Jessica Cowden, Jennifer Verani, Collins Tabu, Jaqueline Tate, Umesh Parashar, Rob Breiman </p>
 
   </div>
 </div>
@@ -83,7 +84,7 @@ header: no
   </p>
     
  <p><strong>Funding:</strong> GSK Vaccines and Biologicals</p>
- <p><strong>Collaborators:</strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White</p>
+ <p><strong>Collaborators:</strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White,Thierry Van Effelterre, Sylvia Taylor </p>
 
   </div>
 </div>
@@ -106,7 +107,8 @@ header: no
   we are quantifying urban-rural social mixing in coastal Kenya which will support Individual Based Modelling (IBM) of infection transmission.  
   </p>
     
-    <p><strong>Funding:</strong> European Research Council</p>
+  <p><strong>Funding:</strong> European Research Council</p>
+ <p><strong>Collaborators: </strong> Emanuele del Feve, Piero Poletti, Alessia Melegaro, Piero Manfredi, John Williams, Simon Gregson </p>
 
   </div>
 </div>
@@ -127,8 +129,8 @@ header: no
   to PRNT and identify the protective efficacy of passive immunity in a cohort and case control study.
   </p>
     
-    <p><strong>Funding:</strong> PATH Vaccine Solutions</p>
-
+  <p><strong>Funding:</strong> PATH Vaccine Solutions</p>
+   <p><strong>Collaborators: </strong> Deborah Higgins </p>
   </div>
 </div>
 
@@ -150,7 +152,8 @@ header: no
     factors that are uniquely expressed in severe disease. 
   </p>
     
-    <p><strong>Funding:</strong> Wellcome Trust Training Fellowship</p>
+   <p><strong>Funding:</strong> Wellcome Trust Training Fellowship</p>
+   <p><strong>Collaborators: </strong> Andrew Pollard, Peter Openshaw </p>
 
   </div>
 </div>

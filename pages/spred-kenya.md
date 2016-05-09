@@ -21,6 +21,7 @@ pathogens, will undergo whole genome deep sequencing. Resultant data will be use
 study will also improve on the current understanding on the characteristics of viral genetic diversity for the target pathogens in the Kenya setting. 
 </p>
 
+<p><strong>Collaborators:</strong> Sandra dos Santos Chavez, Clayton Onyango, Jennifer Verani </p>
 </div>
 </div><!-- /.row -->
 
