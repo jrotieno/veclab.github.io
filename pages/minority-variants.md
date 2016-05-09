@@ -7,7 +7,7 @@ header: no
 
 <div class="row">
 <div class="large-4 columns">
-<img src="{{ site.url }}/images/minority-variants.png" alt="" height="200" width="225">
+<img src="{{ site.url }}/images/minority-variants.png" alt="">
 </div>
 
 <div class="large-8 columns">
@@ -21,12 +21,7 @@ Whole genome consensus sequence data provides information that represents the do
 This project aims to explore whether changes in the composition of minor variants between hosts and the pattern of minor variants fixation during outbreaks, could provide additional data to resolve transmission patterns. 
 </p>
 
-<p><strong>External collaborators:</strong>
-</p>
-<ul>
- <li>Matt Cotten (Wellcome Trust Sanger Institute) </li>
- <li>Paul Kellam (Wellcome Trust Sanger Institute) </li>
-<ul/>
+<p><strong>Collaborators:</strong> Matt Cotten, Paul Kellam <p/>
 
 </div>
 </div><!-- /.row -->
