@@ -160,7 +160,7 @@ header: no
 <hr>
 <div class="row">
   <div class="large-4 columns">
-  <img class="research" src="" alt="">
+  <img class="research" src="{{ site.url}}/images/household-study.png" alt="household-study">
   </div>
 
   <div class="large-8 columns">
@@ -169,6 +169,8 @@ header: no
   <p class="text-justify">
   A cohort of 47 households (493 members) was intensively sampled for six months from December 2009 yielding 16928 nasal specimens. A multiplex PCR assay targeting 16 respiratory pathogens was used to screen the specimens. The arising multiple infection data has been used to define and quantify (i) who infects the vulnerable infants; (ii) factors influencing virus shedding; (iii) the risk of asymptomatic infections; (iii) co-circulation of viruses and (iv) within- and between-host virus evolution using whole genome and minority variants analysis.
   </p>
+
+  <p><strong>Funding:</strong> Wellcome Trust Programme Grant </p>
 
   </div>
 </div>
