@@ -23,7 +23,12 @@ permalink: "/team/"
 </div>
 <hr>
 <div class="row">
-<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
+
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
+
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mike-mwanga"><img class="publication" src="{{ site.url }}/images/Mike-Mwanga.jpg" alt=""></a></div><a href="{{ site.url }}/mike-mwanga">Mike Mwanga</a><div>Assistant research officer</div></div>
+
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/john-aketch"><img class="publication" src="{{ site.url }}/images/John-Aketch.jpg" alt=""></a></div><a href="{{ site.url }}/john-aketch">John Aketch</a><div>Assistant research officer</div></div>
 </div>
 
 <hr>
@@ -33,7 +38,7 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Martin-Mutunga.jpg" alt="" height="90" width="95"></div><strong>Martin Mutunga</strong><div>Lab technician</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clement-Lewa.jpg" alt="" height="90" width="95"></div><strong>Clement Lewa</strong><div>Lab technician</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Alex Gichuki</strong><div>Lab technician</div></div>
-<div class="small-2 columns end"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Regina Njeru</strong><div>Lab technician</div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img class="" src="{{ site.url }}/images/Regina-Njeru.jpg" alt="" height="90" width="95"></div><strong>Regina Njeru</strong><div>Lab technician</div></div>
 </div>
 
 <hr>
