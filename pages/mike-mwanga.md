@@ -9,16 +9,16 @@ header: no
 <img src="{{ site.url }}/images/Mike-Mwanga.jpg" alt="">
 </div>
 
-
 <div class = "small-8 columns" >
 <h6>Mike Mwanga (BSc)</h6>
 <p class="text-justify">
+I joined the Virus Epidemiology and Control group in May 2016 as an assistant research officer to support on going work on surveillance of the impact of rotavirus vaccine introduction in Kenya. I hold a Bachelors degree in Biochemistry from Pwani University, and I have a keen interest in bioinformatics.
 </p>
 
 <p class="text-justify">
+ I am currently supporting the collection of data across the RIPEK collaborating research sites, running the 
+ laboratory diagnostics and sequence analysis. 
 </p>
 
-<p class="text-justify">
-</p>
 </div>
 

@@ -13,9 +13,11 @@ header: no
 <div class = "small-8 columns" >
 <h6>John Aketch (BSc)</h6>
 <p class="text-justify">
+I hold a  Bachelors degree in Molecular and Cellular Biology from Kenyatta University in Kenya. I am especially interested in pathogen genetics and bioinformatics.
 </p>
 
 <p class="text-justify">
+My current work involves applying molecular and bioinformatics techniques to support epidemiological surveillance of respiratory viruses within the research group. 
 </p>
 
 <p class="text-justify">
