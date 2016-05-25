@@ -29,6 +29,7 @@ header: no
 <a href="#" data-dropdown="hover1" data-options="is_hover:true; hover_timeout:5000">sub-studies within SPReD </a>
 <ul id="hover1" class="f-dropdown" data-dropdown-content>
  <li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
+ <li><a href="{{ site.url }}/intervention-modelling">Intervention-modelling</a></li>
  <li><a href="{{ site.url }}/local-spred">Local-SPReD</a></li>
  <li><a href="{{ site.url }}/genomics-and-transmission-study">Genomics and transmission</a></li>
  <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants</a></li>
