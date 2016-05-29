@@ -12,7 +12,9 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/charles-agoti"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/charles-agoti">Charles Agoti</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/nelson-kibinge"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></a></div><strong><a href="{{ site.url }}/nelson-kibinge">Nelson Kibinge</a></strong><div>Postdoc</div></div>
 </div>
+
 <hr>
+
 <div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/ivy-kombe"><img src="{{ site.url }}/images/Ivy-Kombe.jpg" alt="" height="100" width="100"></a></div><strong><a href="{{ site.url }}/ivy-kombe">Ivy Kombe</a></strong><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/moses-kiti"><img src="{{ site.url }}/images/Moses-Kiti.jpg" alt="" height="87" width="100"></a></div><a href="{{ site.url }}/moses-kiti"><strong>Moses Kiti</strong></a><div>PhD Student</div></div>
@@ -21,9 +23,10 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/irene-adema"><img src="{{ site.url }}/images/Irene-Adema.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/irene-adema">Irene Adema</a></strong><div>Assistant research officer</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/everlyn-kamau">Everlyn Kamau</a></strong><div>Assistant research officer</div></div>
 </div>
-<hr>
-<div class="row">
 
+<hr>
+
+<div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
 
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mike-mwanga"><img class="publication" src="{{ site.url }}/images/Mike-Mwanga.jpg" alt=""></a></div><a href="{{ site.url }}/mike-mwanga">Mike Mwanga</a><div>Assistant research officer</div></div>
@@ -32,6 +35,7 @@ permalink: "/team/"
 </div>
 
 <hr>
+
 <h6>Laboratory staff</h6>
 <div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
@@ -42,10 +46,12 @@ permalink: "/team/"
 </div>
 
 <hr>
+
 <h6>Clinical staff</h6>
 <div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mwanajuma-ngama"><img src="{{ site.url }}/images/Mwanajuma-Ngama.jpg" alt="" height="90" width="95"></a></div><a href="{{ site.url }}/mwanajuma-ngama"><strong>Mwanajuma Ngama</strong></a><div>Senior clinical officer</div></div>
-<div class="small-2 columns end"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Timothy Etyang</strong><div>Clinical officer</div></div>
+
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/timothy-etyang"><img src="{{ site.url }}/images/Timothy-Etyang.jpg" alt="" height="90" width="95"></a></div><a href="{{ site.url }}/timothy-etyang"><strong>Timothy Etyang</strong></a><div>Clinical officer</div></div>
 </div>
 
 <hr>
