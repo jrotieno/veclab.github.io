@@ -31,6 +31,24 @@ permalink: "/publications/"
 
 </div>
 
+<div class="row">
+
+<div class="small-3 columns">
+ <p class="">WHO consultation on Respiratory Syncytial Virus Vaccine Development Report from a World Health Organization Meeting held on 23-24 March 2015</p>
+ <p> <a href="http://www.sciencedirect.com/science/article/pii/S0264410X15007677">Modjarrad K, Giersing B, Kaslow DC, Smith PG, Moorthy VS</a></p>
+</div>
+
+<div class="small-3 columns">
+  <img class="publication" src="{{ site.url }}/images/article_img/WHO-RSV-2016.png" alt="">
+</div>
+
+<div class="small-3 columns">
+</div>
+
+<div class="small-3 columns">
+</div>
+
+</div>
 <hr>
 
 <p><strong>2015</strong></p>
@@ -110,4 +128,30 @@ permalink: "/publications/"
  <img class="publication" src="{{ site.url }}/images/article_img/nyiro-vaccine-2015.png" alt="">
 </div>
 
+</div>
+
+<hr>
+
+<p><strong>2014</strong></p>
+
+<div class="row">
+
+<div class="small-3 columns">
+ <p class="">Quantifying age-related rates of social contact using diaries in a rural coastal population of Kenya </p>
+ <p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104786" target="_blank">Kiti MC, Kinyanjui TM, Koech DC, Munywoki PK, Medley GF, Nokes DJ</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/kiti-plosone-2014.png" alt="">
+</div>
+
+<div class="small-3 columns">
+<p class="">The association between age and the development
+of respiratory syncytial virus neutralising antibody responses following natural  infection in infant</p>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0264410X14007051" target="blank">Sande CJ, Cane PA, Nokes DJ</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/sande-vaccine-2014.png" alt="">
+</div>
 </div>
