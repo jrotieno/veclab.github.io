@@ -248,3 +248,24 @@ of respiratory syncytial virus neutralising antibody responses following natural
  <img class="publication" src="{{ site.url }}/images/article_img/anderson-vaccine-2013.png" alt="">
 </div>
 </div>
+
+
+<div class="row">
+<div class="small-3 columns">
+ <p class="">Estimation of the national disease burden of influenza-associated severe acute respiratory illness in Kenya and Guatemala: a novel methodology.</p>
+ <p><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056882" target="_blank">Fuller JA, Summers A, Katz MA, Lindblade KA, Njuguna H et al</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/Fuller-plosone-2013.png" alt="">
+</div>
+
+<div class="small-3 columns">
+<p class="">Severe lower respiratory tract infection in early infancy and pneumonia hospitalizations among children, Kenya.</p>
+<p><a href="" target="blank">Munywoki PK, Ohuma EO, Ngama M, Bauni E, Scott JA, Nokes DJ.</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-emerg-2013.png" alt="">
+</div>
+</div>
