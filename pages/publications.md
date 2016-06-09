@@ -130,6 +130,19 @@ permalink: "/publications/"
 
 </div>
 
+
+<div class="row" >
+
+<div class="small-3 columns">
+ <p class="">Evaluating vaccination strategies for reducing infant respiratory syncytial virus infection in low-income settings</p>
+ <p><a href="http://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0283-x" target="blank">Poletti P, Merler S, Ajelli M, Manfredi P, Munywoki PK, Nokes D, Melegaro A</a></p>
+</div>
+
+<div class="small-3 columns end">
+ <img class="publication" src="{{ site.url }}/images/article_img/poletti-bmc-2015.png" alt="">
+</div>
+
+</div>
 <hr>
 
 <p><strong>2014</strong></p>
