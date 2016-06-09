@@ -183,10 +183,68 @@ of respiratory syncytial virus neutralising antibody responses following natural
 
 <div class="small-3 columns">
 <p class="">Examining strain diversity and phylogeography in relation to an unusual epidemic pattern ofrespiratory syncytial virus (RSV) in a long-term refugee camp in Kenya. </p>
-<p><a href="http://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-178" target="blank">Agoti CN, Mayieka LM, Otieno JR, Ahmed JA, Fields BS, Waiboci LW, Nyoka R, Eidex RB, Marano N, Burton W, Montgomery JM, Breiman RF, Nokes DJ</a></p>
+<p><a href="http://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-178" target="blank">Agoti CN, Mayieka LM, Otieno JR, Ahmed JA, Fields BS, Waiboci LW et al</a></p>
 </div>
 
 <div class="small-3 columns">
  <img class="publication" src="{{ site.url }}/images/article_img/agoti-bmcinfect-2014.png" alt="">
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="small-3 columns">
+ <p class="">The source of respiratory syncytial virus infection in infants: a household cohort study in rural Kenya </p>
+ <p><a href="http://jid.oxfordjournals.org/content/209/11/1685.long" target="_blank">Munywoki PK, Koech DC, Agoti CN, Lewa C, Cane PA, Medley GF, Nokes DJ.</a></p>
+</div>
+
+<div class="small-3 columns end">
+ <img class="publication" src="{{ site.url }}/images/article_img/munywoki-jid-2014.png" alt="">
+</div>
+
+</div>
+
+<hr>
+<p><strong>2013</strong></p>
+
+<div class="row">
+
+<div class="small-3 columns">
+ <p class="">Kinetics of the neutralizing antibody response to respiratory syncytial virus infections in a birth cohort.</p>
+ <p><a href="http://onlinelibrary.wiley.com/doi/10.1002/jmv.23696/full" target="_blank">Sande CJ, Mutunga MN, Okiro EA, Medley GF, Cane PA, Nokes DJ.</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/sande-jmed-2013.png" alt="">
+</div>
+
+<div class="small-3 columns">
+<p class="">Identification of group B respiratory syncytial viruses that lack the 60-nucleotide duplication after six consecutive epidemics of total BA dominance at coastal Kenya.</p>
+<p><a href="" target="blank">Agoti CN, Gitahi CW, Medley GF, Cane PA, Nokes DJ.</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/agoti-influenza-2013.png" alt="">
+</div>
+</div>
+
+<div class="row">
+<div class="small-3 columns">
+ <p class="">Intestinal parasitic infections in children presenting with diarrhoea in outpatient and inpatient settings in an informal settlement of Nairobi, Kenya.</p>
+ <p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673844/" target="_blank">Mbae CK, Nokes DJ, Mulinge E, Nyambura J, Waruru A, Kariuki S.</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/mbae-BMCinfect-2013.png" alt="">
+</div>
+
+<div class="small-3 columns">
+<p class="">Strategic priorities for respiratory syncytial virus (RSV) vaccine development</p>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0264410X13000509" target="blank">Anderson LJ, Dormitzer PR, Nokes DJ, Rappuoli R, Roca A, Graham BS.</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/anderson-vaccine-2013.png" alt="">
 </div>
 </div>
