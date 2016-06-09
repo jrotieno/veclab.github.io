@@ -236,7 +236,7 @@ of respiratory syncytial virus neutralising antibody responses following natural
 </div>
 
 <div class="small-3 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/mbae-BMCinfect-2013.png" alt="">
+ <img class="publication" src="{{ site.url }}/images/article_img/Mbae-BMCinfect-2013.png" alt="">
 </div>
 
 <div class="small-3 columns">
