@@ -168,3 +168,25 @@ of respiratory syncytial virus neutralising antibody responses following natural
  <img class="publication" src="{{ site.url }}/images/article_img/sande-vaccine-2014.png" alt="">
 </div>
 </div>
+
+
+<div class="row">
+
+<div class="small-3 columns">
+ <p class="">Rapid spread and diversification of respiratory syncytial virus genotype ON1, Kenya </p>
+ <p><a href="http://wwwnc.cdc.gov/eid/article/20/6/13-1438_article" target="_blank">Agoti CN, Otieno JR, Gitahi CW, Cane PA, Nokes DJ</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/agoti-emerg-2014.png" alt="">
+</div>
+
+<div class="small-3 columns">
+<p class="">Examining strain diversity and phylogeography in relation to an unusual epidemic pattern ofrespiratory syncytial virus (RSV) in a long-term refugee camp in Kenya. </p>
+<p><a href="http://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-178" target="blank">Agoti CN, Mayieka LM, Otieno JR, Ahmed JA, Fields BS, Waiboci LW, Nyoka R, Eidex RB, Marano N, Burton W, Montgomery JM, Breiman RF, Nokes DJ</a></p>
+</div>
+
+<div class="small-3 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/agoti-bmcinfect-2014.png" alt="">
+</div>
+</div>
