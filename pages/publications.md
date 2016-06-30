@@ -9,29 +9,37 @@ permalink: "/publications/"
 <div class="row">
 
 <div class="small-3 columns">
+<p class=""> Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors</p>
+<p><a href="" target="_blank">Kiti MC,Tizzoni M,Kinyanjui TM,Koech DC,Munywoki PK,Meriac M,Cappa L,Pannisson A,Barrat A,Cattuto C,Nokes DJ</a></p>
+</div>
+
+<div class="small-3 columns">
+<img class="publication" src="{{ site.url }}/images/article_img/Kiti-2016-EPJ-Data-Science.png" alt="">
+</div>
+
+
+<div class="small-3 columns">
  <p class=""> Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya </p>
- <p><a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="blank">Otieno et al. Journal of Virology</a></p>
+ <p><a href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="_blank">Otieno JR,Agoti CN,Gitahi CW,Bett A,Ngama M,Medley G,Cane PA,Nokes DJ</a></p>
 </div>
 
 <div class="small-3 columns">
   <img class="publication" src="{{ site.url }}/images/article_img/Otieno-et-al-2015-jvi.png" alt="">
 </div>
+</div>
 
+<div class="row">
 <div class="small-3 columns">
 <p class="">
   Influenza activity in Kenya, 2007-2013: timing, association with climatic factors, and implications for vaccination campaigns
 </p>
 
- <p><a href="http://onlinelibrary.wiley.com/doi/10.1111/irv.12393/abstract;jsessionid=708CD6AF0A42594A081D06C29B3438A6.f04t03" target="blank">Emukule et al. Influenza and Other Respir Viruses</a></p>
+ <p><a href="http://onlinelibrary.wiley.com/doi/10.1111/irv.12393/abstract;jsessionid=708CD6AF0A42594A081D06C29B3438A6.f04t03" target="blank">Emukule GO,Mott JA,Spreeuwenberg P,Viboud C,Commanday A,Muthoka P,Munywoki PK,Nokes DJ,Velden,Paget JW</a></p>
 </div>
 
 <div class="small-3 columns">
  <img class="publication" src="{{ site.url }}/images/article_img/emukule-2016.png" alt="">
 </div>
-
-</div>
-
-<div class="row">
 
 <div class="small-3 columns">
  <p class="">WHO consultation on Respiratory Syncytial Virus Vaccine Development Report from a World Health Organization Meeting held on 23-24 March 2015</p>
@@ -42,11 +50,6 @@ permalink: "/publications/"
   <img class="publication" src="{{ site.url }}/images/article_img/WHO-RSV-2016.png" alt="">
 </div>
 
-<div class="small-3 columns">
-</div>
-
-<div class="small-3 columns">
-</div>
 
 </div>
 <hr>
