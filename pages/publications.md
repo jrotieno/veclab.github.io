@@ -5,6 +5,19 @@ permalink: "/publications/"
 ---
 
 <p><strong>2016</strong></p>
+<div class="row">
+
+<div class="small-3 columns">
+<p class="">Human metapneumovirus epidemiological and evolutionary patterns in Coastal Kenya, 2007-11</p>
+<p><a href="" target="_blank">Owor BE,Masankwa GN,Mwango LC, Njeru RW,Agoti CN,Nokes DJ</a></p>
+</div>
+
+<div class="small-3 columns end">
+<img class="publication" src="{{ site.url }}/images/article_img/Owor-2016-BMC-infect-Dis.png" alt="">
+</div>
+
+</div>
+
 
 <div class="row">
 
