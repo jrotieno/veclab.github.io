@@ -41,7 +41,7 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Martin-Mutunga.jpg" alt="" height="90" width="95"></div><strong>Martin Mutunga</strong><div>Lab technician</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clement-Lewa.jpg" alt="" height="90" width="95"></div><strong>Clement Lewa</strong><div>Lab technician</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="" alt="" height="90" width="95"></div><strong>Alex Gichuki</strong><div>Lab technician</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Alex-Gichuki.jpg" alt="" height="90" width="95"></div><strong>Alex Gichuki</strong><div>Lab technician</div></div>
 <div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img class="" src="{{ site.url }}/images/Regina-Njeru.jpg" alt="" height="90" width="95"></div><strong>Regina Njeru</strong><div>Lab technician</div></div>
 </div>
 
